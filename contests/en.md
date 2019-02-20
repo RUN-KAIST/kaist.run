@@ -1,0 +1,52 @@
+---
+layout: page
+title: Contests
+permalink: /en/contests/
+ref: contests
+lang: en
+order: 3
+---
+
+## Past contests
+
+### 2018 Fall 
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1923) ([pdf](https://drive.google.com/open?id=1ZLAA9o0rpS418MAIT75Roc2mt02wITl-))
+ * [Solutions](https://drive.google.com/open?id=1z2TF6Mpeg_yMLoa2meeU_91TrhGDQCk5)
+ * [Tests, Solution, Checker (warning, 600MB!)](https://drive.google.com/open?id=1OCX6NrQRlorwPbvoa4KlcHQk1t672adr)
+ * [Discussion on Codeforces](http://codeforces.com/blog/entry/62435)
+ * No Korean version is provided from 2018 Fall contest.
+
+### 2018 Spring
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1874) ([Korean pdf](https://drive.google.com/open?id=1eiU413JYuldPwTcQ3VFaIp8qyuI8HzEW), [English pdf](https://drive.google.com/open?id=1ppIkxJH9roWxpuWDhdRwn4fKWjk3eggW))
+ * [Solutions](https://drive.google.com/open?id=17Sgx0VODLTdrfQhIQrAf5kHWiiwG--Q2)
+ * [Tests, Solution, Checker (warning, 400MB!)](https://drive.google.com/open?id=1mWZ-R1WE5IV4hKZNPWC2fYlqsMGLEhIM)
+ * [Discussion on Codeforces](http://codeforces.com/blog/entry/59625)
+
+### 2017 Fall
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1759) ([Korean pdf](https://drive.google.com/open?id=1QoXaCAMgAlBzfL0-fNYocBpAl393-DDJ), [English pdf](https://drive.google.com/open?id=10aC49yRSxyaBdTCTsCdPgdKJE55Zv-z_))
+ * [Solutions](https://drive.google.com/open?id=1GuJqgCYzjeVy3A8vPem_zcDxt7gQYx8_) ([Korean version](https://drive.google.com/open?id=1U7IzHUzUShbHYugZtGYD6ZAhwmWR77Ee))
+ * Selected problems are used in [GP of Korea #3](http://codeforces.com/blog/entry/62435).
+
+### 2017 Spring 
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1743) ([Korean pdf](https://drive.google.com/open?id=16OvDVDwI77v3Uso8rx5M3HNXHY5x4N80), [English pdf](https://drive.google.com/open?id=11_dYYH3dok1H3C0d3nABUPmYDWd2hW72))
+ * Solutions: [English version](https://drive.google.com/open?id=1N7GuLhgmu9-Y-pCu8xZnfkaaQ2rz4xSA), [Korean version](https://drive.google.com/open?id=1LQHJGEMbelK-IBbI30rlpkPqTxz4oAo_)
+
+### 2016 Fall
+ * [Problems in Baekjoon Online Judge (Korean only)](https://www.acmicpc.net/category/detail/1521) (English problemset is archived in our club room storage.)
+
+### 2016 Spring
+ * [Problems in Baekjoon Online Judge (Korean only)](https://www.acmicpc.net/category/detail/1486)
+
+### 2015 Fall
+ * [Problems in Baekjoon Online Judge (Korean only)](https://www.acmicpc.net/category/detail/1363)
+
+### 2014 Fall
+ * [Problems in algospot.com (Korean only)](https://algospot.com/judge/problem/list/?tag=&source=2014+KAIST+ACM-ICPC+%EB%AA%A8%EC%9D%98%EB%8C%80%ED%9A%8C&author=) ([pdf](https://drive.google.com/open?id=1lTRffIRNczqfpaUpTuKxioPl7mpglkkF))
+ * [Solutions (Korean only)](https://drive.google.com/open?id=1fPT8uDtl2YMdkHxYaz-M40AQNZZK4GGA)
+
+### 2013 Fall
+ * [Problems in algospot.com (Korean only)](https://algospot.com/judge/problem/list/?tag=&source=2013+KAIST+%EA%B5%90%EB%82%B4+%EB%8C%80%ED%9A%8C&author=) ([pdf](https://drive.google.com/open?id=1TTMR6mdASx44fpgEYkelJQxfvnskT28n))
