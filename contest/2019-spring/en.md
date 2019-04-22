@@ -20,7 +20,7 @@ The compeititon will take place on Tuesday, May 1st, at N1 room 102, with [Baekj
 
 - At April 26th (Sun) 23:59, the registration form will be closed. You can find the form in the bottom of this page.
 - On May 1st (Wed), the competition will be held on N1 102. You must come to the contest area in order to participate.
-- Participants must complete the on-site registration before 18:20 pm on the date of competition.
+- Participants must complete the on-site registration before 18:00 pm on the date of competition.
 ```
 Competition day schedule
 18:00-18:30 | Competition guidance and environment setting
