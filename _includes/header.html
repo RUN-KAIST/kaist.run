@@ -16,9 +16,12 @@
       <div class="trigger">
         {% assign pages=site.pages | where:"lang", page.lang |sort:"order" %}
         {% for my_page in pages %} 
+        {% if my_page.ref contains 'contest-' %}
+        {% else %}
           {% if my_page.ref != "index" and my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
+        {% endif %}
         {% endfor %}
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %} <a class="lang-links" href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
