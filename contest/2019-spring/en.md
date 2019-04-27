@@ -86,6 +86,6 @@ Ranking = (# of participants with higher points) + (# of participants with same 
 
 ## Registration
 
-- Due: Sunday, April 26th 23:59:59
+- Due: Sunday, April 28th 23:59:59
 - [Link to the form](https://docs.google.com/forms/d/e/1FAIpQLScOA-xSKmIrrh-Wxb3Nl1kpAZLlvxtJZyQjrToypIS9epUNGQ/viewform)
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOA-xSKmIrrh-Wxb3Nl1kpAZLlvxtJZyQjrToypIS9epUNGQ/viewform" frameborder="0" width="100%" height="1500px"></iframe>
