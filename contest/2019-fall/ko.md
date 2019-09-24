@@ -39,7 +39,7 @@ https://d2.naver.com), [Jane Street](https://www.janestreet.com/), [스타트링
 ```
 ## 상품
 
-[데브시스터즈](https://www.devsisters.com/)의 후원을 받아 총 260만원 규모의 상품이 제공됩니다.
+[데브시스터즈](https://www.devsisters.com/)의 후원을 받아 총 250만원 규모의 상품이 제공됩니다.
 
 - 1등상: 100만원 상당의 상품
 - 2등상: 70만원 상당의 상품
