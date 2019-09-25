@@ -50,6 +50,7 @@ There are souvenirs for every team.
 
 - Only KAIST students, including graduate students, exchange students, etc., can participate.
 - You can only participate in one team of three students.
+  - For those who don't have a team, we made an [Open Kakaotalk room](https://open.kakao.com/o/gzlWOwFb).
 - You must bring your own laptop to the contest area.
   - You might need to use cloud desktop services. In that case, we will tell you by email so that you could know what to do.
 - You can use at most one electronic device during the contest. If you have some reason to use other electronic devices, please tell us in the registration form.
