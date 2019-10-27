@@ -9,6 +9,12 @@ order: 3
 
 ## Past contests
 
+### 2019 Fall
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2063) ([pdf](https://kaist.run/contest/2019-fall/problemset.pdf))
+ * [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
+ * Only English problem statements were given in the 2019 Fall contest.
+ 
 ### 2019 Spring
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2022) ([pdf](https://kaist.run/contest/2019-spring/problemset.pdf))
