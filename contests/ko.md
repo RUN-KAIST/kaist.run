@@ -9,6 +9,12 @@ order: 3
 
 ## 과거 기출 문제
 
+### 2019 Fall
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2063) ([pdf](https://kaist.run/contest/2019-fall/problemset.pdf))
+ * [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
+ * 이 대회는 영어로만 진행되었습니다.
+
 ### 2019 Spring
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2022) ([pdf](https://kaist.run/contest/2019-spring/problemset.pdf))
