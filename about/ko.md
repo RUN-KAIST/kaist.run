@@ -16,7 +16,7 @@ order: 1
 ### 실습
 ![scoreboard](/about/scoreboard.png)
 각 회원은 실력에 따라 `실습반`과 `교육반`으로 나뉘어 실습을 진행합니다.
-- `실습반` : 정모 이후 동방에서 [Baekjoon Online Judge](https://www.acmicpc.net/)를 사용하여 실습
+- `실습반` : [Baekjoon Online Judge](https://www.acmicpc.net/)를 사용하여 실습
 - `교육반` : 회원들 간 일정을 조율하여 세미나 시간을 정하고, 실습반 강사의 기초 알고리즘 강의와 실습 커리큘럼을 따름
 
 <hr style="margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
