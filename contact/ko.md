@@ -7,8 +7,8 @@ lang: ko
 order: 100
 ---
 
-- 2019년 회장 박수찬
-  - 전화번호: 010-2068-4096
-  - 이메일: [suchan.park@kaist.ac.kr](mailto:suchan.park@kaist.ac.kr)
+- 2020년 회장 박수찬
+  - 전화번호: 010-4549-1467
+  - 이메일: [jmchoi98@kaist.ac.kr](mailto:jmchoi98@kaist.ac.kr)
 - 동아리 이메일: [contact@kaist.run](mailto:contact@kaist.run)
 

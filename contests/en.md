@@ -41,6 +41,7 @@ order: 3
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1759) ([Korean pdf](https://drive.google.com/open?id=1QoXaCAMgAlBzfL0-fNYocBpAl393-DDJ), [English pdf](https://drive.google.com/open?id=10aC49yRSxyaBdTCTsCdPgdKJE55Zv-z_))
  * [Solutions](https://drive.google.com/open?id=1GuJqgCYzjeVy3A8vPem_zcDxt7gQYx8_) ([Korean version](https://drive.google.com/open?id=1U7IzHUzUShbHYugZtGYD6ZAhwmWR77Ee))
  * Selected problems are used in [GP of Korea #3](http://codeforces.com/blog/entry/62435).
+ * Problem E is removed by author's request.
 
 ### 2017 Spring 
 

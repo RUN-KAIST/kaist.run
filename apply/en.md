@@ -7,4 +7,6 @@ lang: en
 order: 2
 ---
 
-Application is closed.
+Application was closed on March 17th.
+
+Please contact contact@kaist.run if you still want to join.
