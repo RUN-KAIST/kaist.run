@@ -7,7 +7,7 @@ lang: en
 order: 100
 ---
 
-- This year(2019)'s Club president: Suchan Park
-  - Phone number: 010-2068-4096
-  - Email: [suchan.park@kaist.ac.kr](mailto:suchan.park@kaist.ac.kr)
+- This year(2020)'s Club president: Jaemin Choi
+  - Phone number: 010-4549-1467
+  - Email: [jmchoi98@kaist.ac.kr](mailto:jmchoi98@kaist.ac.kr)
 - Club Email: [contact@kaist.run](mailto:contact@kaist.run)
