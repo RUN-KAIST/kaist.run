@@ -13,12 +13,14 @@ order: 3
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2063) ([pdf](https://kaist.run/contest/2019-fall/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
+ * [Polygon package (full)](https://drive.google.com/drive/folders/1sQVuxaLZGQUGHk_Ux0USjeGKnieJq62X?usp=sharing)
  * 이 대회는 영어로만 진행되었습니다.
 
 ### 2019 Spring
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2022) ([pdf](https://kaist.run/contest/2019-spring/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2019-spring/solution.pdf)
+ * [Polygon package (full)](https://drive.google.com/drive/folders/1G-_Jm6g0Yf3miRRQ0NVaZ8hFJnZOw-m3?usp=sharing)
  * 이 대회는 영어로만 진행되었습니다.
  
 ### 2018 Fall 
