@@ -13,7 +13,7 @@ lang: en
 
 ## Outline
 
-The 10th KAIST ICPC Mock Competition will be held on October 3rd!
+The 10th KAIST ICPC Mock Competition will be held on October 9th!
 
 Participants in this competition will solve about 12 algorithm problems for 5 hours with a team of 3 members.
 The competition will take place online, with [Baekjoon Online Judge](https://acmicpc.net) platform. Online open contest (mirror) will be held simultaneously.

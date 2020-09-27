@@ -7,4 +7,6 @@ permalink: /en/
 
 ### RUN: KAIST Algorithmic Problem Solving Club
 
-![poster](/about/poster/2019-fall/en.png)
+[The 10th KAIST ICPC Mock Competition will be held on October 9th!](https://kaist.run/en/contest/2020-fall)
+
+![poster](/contest/2020-fall/poster_en.png)
