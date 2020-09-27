@@ -21,7 +21,7 @@ The competition will take place online, with [Baekjoon Online Judge](https://acm
 ## Schedule
 
 - October 7st (Wed) 23:59: The registration form will be closed. You can find the form at the bottom of this page.
-- October 9rd (Fri): The competition will be held on N1 102. All team members must come to the contest area to participate in the contest.
+- October 9rd (Fri): The competition will be held online. All team members must come to the contest area to participate in the contest.
 - Participants must join the ZOOM session before 11:00AM.
 ```
 Competition day schedule
