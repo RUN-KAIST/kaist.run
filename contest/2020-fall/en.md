@@ -48,7 +48,7 @@ The following prizes are sponsored by [DEVSISTERS](http://www.devsisters.com/).
 
 - Only KAIST students, including graduate students, exchange students, etc., can participate.
 - You can only participate in one team of three students.
-  - For those who don't have a team, we will make an Open Kakaotalk room.
+  - For those who don't have a team, we made an [Open Kakaotalk room](https://open.kakao.com/o/gOFk3gzc).
 - Each team member can use their own computer simultaneously, and you can use Internet searching or pre-written codes.
 - Participants must join the ZOOM session before 11:00AM.
 - The available languages will include C, C++, Java, Python, and Kotlin.
