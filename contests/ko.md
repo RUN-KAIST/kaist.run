@@ -7,21 +7,27 @@ lang: ko
 order: 3
 ---
 
+2018년 가을 이후의 대회는 영어로만 진행되었습니다.
+
 ## 과거 기출 문제
+
+### 2020 Fall
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2329) ([pdf](https://kaist.run/contest/2020-fall/problemset.pdf))
+ * [Solutions](https://kaist.run/contest/2020-fall/solution.pdf)
+ * Polygon package (full): 업로드 예정
 
 ### 2019 Fall
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2063) ([pdf](https://kaist.run/contest/2019-fall/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
  * [Polygon package (full)](https://drive.google.com/drive/folders/1sQVuxaLZGQUGHk_Ux0USjeGKnieJq62X?usp=sharing)
- * 이 대회는 영어로만 진행되었습니다.
 
 ### 2019 Spring
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2022) ([pdf](https://kaist.run/contest/2019-spring/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2019-spring/solution.pdf)
  * [Polygon package (full)](https://drive.google.com/drive/folders/1G-_Jm6g0Yf3miRRQ0NVaZ8hFJnZOw-m3?usp=sharing)
- * 이 대회는 영어로만 진행되었습니다.
  
 ### 2018 Fall 
 
@@ -29,7 +35,6 @@ order: 3
  * [Solutions](https://drive.google.com/open?id=1z2TF6Mpeg_yMLoa2meeU_91TrhGDQCk5)
  * [Tests, Solution, Checker (warning, 600MB!)](https://drive.google.com/open?id=1OCX6NrQRlorwPbvoa4KlcHQk1t672adr)
  * [Discussion on Codeforces](http://codeforces.com/blog/entry/62435)
- * 이 대회는 영어로만 진행되었습니다.
 
 ### 2018 Spring
 
