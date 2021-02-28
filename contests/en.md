@@ -15,7 +15,7 @@ Starting from 2018 Fall, only English problem statements were given for all prob
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2329) ([pdf](https://kaist.run/contest/2020-fall/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2020-fall/solution.pdf)
- * Polygon package (full): To be uploaded
+ * [Polygon package (full)](https://drive.google.com/drive/folders/1VpNt3qBqOn_Xurdug0R3yPBoVkXc5cKn?usp=sharing)
 
 ### 2019 Fall
 
