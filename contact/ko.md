@@ -7,8 +7,8 @@ lang: ko
 order: 100
 ---
 
-- 2020년 회장 최재민
-  - 전화번호: 010-4549-1467
-  - 이메일: [jmchoi98@kaist.ac.kr](mailto:jmchoi98@kaist.ac.kr)
+- 2021년 회장 이재웅
+  - 전화번호: 010-9762-5950
+  - 이메일: [whitel0tus@kaist.ac.kr](mailto:whitel0tus@kaist.ac.kr)
 - 동아리 이메일: [contact@kaist.run](mailto:contact@kaist.run)
 
