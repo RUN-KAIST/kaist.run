@@ -7,7 +7,7 @@ lang: en
 order: 100
 ---
 
-- This year(2020)'s Club president: Jaemin Choi
-  - Phone number: 010-4549-1467
-  - Email: [jmchoi98@kaist.ac.kr](mailto:jmchoi98@kaist.ac.kr)
+- This year(2021)'s Club president: Jaeung Lee
+  - Phone number: 010-9762-5950
+  - Email: [whitel0tus@kaist.ac.kr](mailto:whitel0tus@kaist.ac.kr)
 - Club Email: [contact@kaist.run](mailto:contact@kaist.run)
