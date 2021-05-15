@@ -7,4 +7,4 @@ redirect_from: /index.html
 ---
 
 ### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
-## 3월 16일까지 동아리 신규 부원 모집을 실시중입니다!
+## 2021 KAIST RUN Spring Contest가 5월 19일에 개최됩니다!
