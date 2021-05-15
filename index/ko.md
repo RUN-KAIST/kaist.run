@@ -13,4 +13,4 @@ redirect_from: /index.html
 
 참가 신청은 아래 구글 폼을 통해 받고 있습니다. 
 
-https://forms.gle/tFmLucZ7MKrn3eoe7
+<iframe src="https://forms.gle/tFmLucZ7MKrn3eoe7" frameborder="0" width="100%" height="1500px"></iframe>
