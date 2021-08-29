@@ -6,6 +6,6 @@ permalink: /en/
 ---
 
 ### RUN: KAIST Algorithmic Problem Solving Club
-## 2021 KAIST RUN Spring Contest is over!
+## Now recruiting new club members until September 15th!
 
-![scoreboard](/contest/2021-spring/scoreboard.png)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeaB2kwHLLkSeSlnN21gKQ6GrZPOvytUv81AhZXLAHQW8z16w/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
