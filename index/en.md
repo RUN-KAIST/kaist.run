@@ -28,7 +28,7 @@ Competition day schedule
 
 ## Sponsorship
 
-This contest is sponsored by [Devsisters](https://www.devsisters.com/), [Naver D2](https://d2.naver.com) and [Startlink](http://startlink.io).
+This contest is sponsored by [Devsisters](https://www.devsisters.com/), [Naver D2](https://d2.naver.com), [Startlink](http://startlink.io) and [Samsung Software Membership](https://www.secmem.org/).
 
 ## Prizes
 
