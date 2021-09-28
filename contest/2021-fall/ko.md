@@ -1,5 +1,5 @@
 ---
-title: 10th KAIST ICPC Mock Competition
+title: 11th KAIST ICPC Mock Competition
 permalink: /ko/contest/2021-fall
 ref: contest-2021-fall
 lang: ko
@@ -7,7 +7,7 @@ lang: ko
 
 ## 소개
 
-제10회 KAIST ICPC 모의대회가 10월 9일에 진행됩니다!
+제11회 KAIST ICPC 모의대회가 10월 4일에 진행됩니다!
 
 본 대회에 참가자들은 3명이 한 팀을 이루어 12개 내외의 알고리즘 문제를 5시간 동안 해결하게 됩니다.
 
