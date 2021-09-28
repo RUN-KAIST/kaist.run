@@ -5,12 +5,6 @@ ref: contest-2021-fall
 lang: en
 ---
 
-<div style="text-align: center">
-    <img src="/contest/2020-fall/poster_en.jpg" alt="poster_en" style="width: 350px;"/>
-</div>
-
-<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
-
 ## Outline
 
 The 10th KAIST ICPC Mock Competition will be held on October 4th!
