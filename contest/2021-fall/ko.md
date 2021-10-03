@@ -5,6 +5,12 @@ ref: contest-2021-fall
 lang: ko
 ---
 
+<div style="text-align: center">
+	<img src="/contest/2021-fall/poster_ko.jpg" alt="poster_ko" style="width: 350px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+
+
 ## 소개
 
 제11회 KAIST ICPC 모의대회가 10월 4일에 진행됩니다!
