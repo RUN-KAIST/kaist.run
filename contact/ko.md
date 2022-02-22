@@ -7,8 +7,8 @@ lang: ko
 order: 100
 ---
 
-- 2021년 회장 이재웅
-  - 전화번호: 010-9762-5950
-  - 이메일: [whitel0tus@kaist.ac.kr](mailto:whitel0tus@kaist.ac.kr)
+- 2022년 회장 안지민
+  - 전화번호: 010-6346-1504
+  - 이메일: [retro3014@kaist.ac.kr](mailto:retro3014@kaist.ac.kr)
 - 동아리 이메일: [contact@kaist.run](mailto:contact@kaist.run)
 
