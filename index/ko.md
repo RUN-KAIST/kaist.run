@@ -56,4 +56,4 @@ redirect_from: /index.html
 ## 등록
 
 - [Link to the form](https://forms.gle/vfQzLAQhLSdhMcWs7)
-<iframe src="https://forms.gle/vfQzLAQhLSdhMcWs7" frameborder="0" width="100%" height="1500px"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMyzcpJJuazlSmT0wtGU4zuFbLkekcYsb2p-kw57i8EKJEpg/viewform" frameborder="0" width="100%" height="1500px"></iframe>
