@@ -12,7 +12,7 @@ redirect_from: /index.html
 
 2022 KAIST RUN Spring Contest가 5월 5일에 진행됩니다!
 
-대회는 5월 5일 목요일 오후 1시부터 KAIST N1 102에서 진행됩니다.
+대회는 5월 5일 목요일 오후 1시부터 KAIST N1 102호에서 진행됩니다.
 
 ## 후원
 
