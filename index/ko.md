@@ -16,7 +16,7 @@ redirect_from: /index.html
 
 ## 후원
 
-본 대회는 [데브시스터즈](https://www.devsisters.com/), [Naver D2](https://d2.naver.com), [Moloco](https://www.moloco.com/ko/) [스타트링크](http://startlink.io)의 후원으로 진행됩니다.
+본 대회는 [데브시스터즈](https://www.devsisters.com/), [Naver D2](https://d2.naver.com), [Moloco](https://www.moloco.com/ko/), [스타트링크](http://startlink.io)의 후원으로 진행됩니다.
 
 ## 일정
 
