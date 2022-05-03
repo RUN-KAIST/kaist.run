@@ -39,8 +39,8 @@ redirect_from: /index.html
 
 총 (TBA) 규모의 상품이 제공됩니다.
 
-- 1등상: (TBA)
-- 2등상: (TBA)
+- 1등상: Macbook Air
+- 2등상: iPad Air
 - 3등상: AirPods
 - 참가상 : 모든 참가자들에게 시상
 
