@@ -32,8 +32,8 @@ This contest is sponsored by [Devsisters](https://www.devsisters.com/), [Naver D
 
 The following prizes are sponsored by [Devsisters](https://www.devsisters.com/), [Naver D2](https://d2.naver.com) and [Moloco](https://www.moloco.com/en/).
 
-- 1st place: (TBA)
-- 2nd place: (TBA)
+- 1st place: MacBook Air 
+- 2nd place: iPad Air
 - 3rd place: AirPods
 - Participation Award for all participants.
 
