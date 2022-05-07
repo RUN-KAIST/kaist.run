@@ -11,6 +11,12 @@ order: 3
 
 ## 과거 기출 문제
 
+### 2022 Spring
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2804) ([pdf](https://kaist.run/contest/2022-spring/problemset.pdf))
+ * [Solutions](https://kaist.run/contest/2022-spring/solution.pdf)
+ * [Polygon package (full)]
+
 ### 2021 Fall
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2804) ([pdf](https://kaist.run/contest/2021-fall/problemset.pdf))
