@@ -11,6 +11,12 @@ Starting from 2018 Fall, only English problem statements were given for all prob
 
 ## Past contests
 
+### 2022 Spring
+
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3117) ([pdf](https://kaist.run/contest/2022-spring/problemset.pdf))
+ * [Solutions](https://kaist.run/contest/2022-spring/solution.pdf)
+ * [Polygon package (full)](https://drive.google.com/drive/folders/1rqOHVoANZxCQ_E5CRo3rGENYFY_N0pft?usp=sharing)
+
 ### 2021 Fall
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2804) ([pdf](https://kaist.run/contest/2021-fall/problemset.pdf))
