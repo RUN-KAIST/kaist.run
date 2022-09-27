@@ -8,6 +8,12 @@ redirect_from: /index.html
 
 ### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
+
+<div style="text-align: center">
+	<img src="/index/poster2022F.png" alt="poster" style="width: 350px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+
 ## 소개
 
 제12회 KAIST ICPC 모의대회가 10월 3일에 진행됩니다!
