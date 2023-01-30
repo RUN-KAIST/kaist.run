@@ -11,7 +11,7 @@ order: 3
 
 ## 과거 기출 문제
 
-### 2022 Spring
+### 2022 Fall
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3199) ([pdf](https://kaist.run/contest/2022-fall/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2022-fall/solution.pdf)
