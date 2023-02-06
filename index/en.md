@@ -62,7 +62,7 @@ This contest is sponsored by [Devsisters](https://www.devsisters.com/), [Naver D
   - [Help for judge](https://www.acmicpc.net/help/judge)
   - [Help for language](https://www.acmicpc.net/help/language)
 
-## For other inquiries, please contact 010-6346-1504 or retro3014@kaist.ac.kr
+## For other inquiries, please contact 010-4221-4309 or songmhrm@kaist.ac.kr
 
 <hr style="margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 

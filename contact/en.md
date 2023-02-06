@@ -7,7 +7,7 @@ lang: en
 order: 100
 ---
 
-- This year(2022)'s Club president: Jimin Ahn
-  - Phone number: 010-6346-1504
-  - Email: [retro3014@kaist.ac.kr](mailto:retro3014@kaist.ac.kr)
+- This year(2023)'s Club president: Junhyuk Song
+  - Phone number: 010-4221-4309
+  - Email: [songmhrm@kaist.ac.kr](mailto:songmhrm@kaist.ac.kr)
 - Club Email: [contact@kaist.run](mailto:contact@kaist.run)

@@ -65,7 +65,7 @@ https://d2.naver.com), [스타트링크](http://startlink.io), [Moloco](https://
 - [채점에 관한 도움말](https://www.acmicpc.net/help/judge)
 - [언어에 관한 도움말](https://www.acmicpc.net/help/language)
 
-### 기타 문의사항은 010-6346-1504 또는 retro3014@kaist.ac.kr로 연락주세요.
+### 기타 문의사항은 010-4221-4309 또는 songmhrm@kaist.ac.kr로 연락주세요.
 
 ## 등록
 

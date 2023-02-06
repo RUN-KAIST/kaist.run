@@ -7,8 +7,8 @@ lang: ko
 order: 100
 ---
 
-- 2022년 회장 안지민
-  - 전화번호: 010-6346-1504
-  - 이메일: [retro3014@kaist.ac.kr](mailto:retro3014@kaist.ac.kr)
+- 2023년 회장 송준혁
+  - 전화번호: 010-4221-4309
+  - 이메일: [songmhrm@kaist.ac.kr](mailto:songmhrm@kaist.ac.kr)
 - 동아리 이메일: [contact@kaist.run](mailto:contact@kaist.run)
 
