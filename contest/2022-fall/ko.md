@@ -1,9 +1,8 @@
 ---
 layout: default
-ref: index
+ref: contest-2022-fall
 lang: ko
-permalink: /ko/
-redirect_from: /index.html
+permalink: /ko/contest/2022-fall/
 ---
 
 ### KAIST 알고리즘 문제 해결 동아리 RUN입니다.

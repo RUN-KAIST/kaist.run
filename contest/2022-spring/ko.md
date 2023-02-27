@@ -1,3 +1,10 @@
+---
+layout: default
+ref: contest-2022-spring
+lang: ko
+permalink: /ko/contest/2022-spring/
+---
+
 ## 소개
 
 2022 KAIST RUN Spring Contest가 5월 5일에 진행됩니다!
