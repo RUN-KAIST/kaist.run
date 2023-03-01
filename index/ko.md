@@ -6,68 +6,33 @@ permalink: /ko/
 redirect_from: /index.html
 ---
 
-### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
+# KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
+## [\[ 2023 봄 리크루팅 중!!! (~3.20) \]](/ko/apply/)
 
-<div style="text-align: center">
-	<img src="/index/poster2022F.png" alt="poster" style="width: 350px;"/>
-</div>
-<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+### 소개
 
-## 소개
+**RUN**은 카이스트의 알고리즘 문제 해결 동아리입니다.
+**RUN**에서는 여러 문제 풀이 기법과 알고리즘적 지식에 대한 공부를 함께하고 **ICPC**, SCPC, Codeforces 등의 여러 대회를 준비합니다.
+알고리즘, 이산 수학 등의 분야에 관심이 있으시다면 누구든 가리지 않습니다.
+면접 등 추가적인 선발 과정 없이 아래 구글 폼을 제출해주시기만 하면 **RUN**의 회원이 될 수 있습니다.
+활동에 대한 부담이 거의 없고 동아리 비도 학기당 **3,000**원 뿐입니다. 
+관심만 있으시다면 부담없이 지원해주세요.
 
-제12회 KAIST ICPC 모의대회가 10월 3일에 진행됩니다!
+### 활동
 
-본 대회에 참가자들은 3명이 한 팀을 이루어 13개 내외의 알고리즘 문제를 5시간 동안 해결하게 됩니다.
+- 정기 모임 시간 : 매주 수요일 9시 반 **(필수 참여 X)**
+- 정기 모임 장소 : 매주 공지 (동아리 방, 온라인, N1, ...)
+- 활동 내용 : 수준별로 운영되는 알고리즘 세미나 / 스터디
+- 주요 행사 :
+  - RUN 봄 대회 : 5월 초 개최, 개인 대회
+  - RUN 가을 대회 : 10월 초 개최, 팀 대회
 
-대회는 10월 3일 월요일에 오프라인으로 진행되며 [백준 온라인 저지](https://acmicpc.net) 플랫폼을 사용합니다. 대회 종료 이후에 온라인 오픈 컨테스트 (미러)가 열릴 예정입니다.
+### [지원 양식](/ko/apply/)
 
-## 후원
+- 모집 기한: 3월 20일까지
+- 이후에도 신청하실 수 있으나, 3월 21일부터는 응답을 실시간으로 보지 않을 예정입니다.
 
-본 대회는 [데브시스터즈](https://www.devsisters.com/), [Naver D2](
-https://d2.naver.com), [스타트링크](http://startlink.io), [Moloco](https://www.moloco.com/) 그리고 [넥슨](https://www.nexon.com/)의 후원으로 진행됩니다.
-
-## 일정
-
-- 10월 3일(월)에 대회가 진행됩니다.
-- 참가를 신청한 사람은 오전 11시 30분까지 N1 102호에 도착하셔야 합니다.
-
-```
-대회 당일 시간표
-11:30~12:00 | 대회 안내 및 준비
-12:00~17:00 | 대회 진행
-17:00~17:40 | 후원사 세미나(TBD)
-17:40~      | 시상식
-```
-## 상품
-
-총 250만원 규모의 상품이 제공됩니다.
-
-- 1등상: Amazon eGift 250$ * 3
-- 2등상: Amazon eGift 150$ * 3
-- 3등상: Amazon eGift 75$ * 3
-- 특별상(3팀): 순위와 관계 없는 기준을 적용하여 시상 예정
-- 참가상
-
-## 규칙
-
-- KAIST 학생만 참여 가능합니다(대학원생, 교환학생, 휴학생 등 포함).
-- 3인 1팀으로만 참여 가능합니다.
-- 각 팀은 반드시 1대의 컴퓨터(노트북)를 사용하여야 합니다. 대회 중 프로그래밍 언어별 공식 Reference Site와 백준 사이트를 제외한 웹사이트 및 인터넷 사용은 일체 허용되지 않습니다.
-- 모든 팀원은 오전 11시 30분까지 N1 102호에 도착하셔야 합니다.
-- 사용 가능한 언어는 C / C++ / Java / Python / Kotlin으로 제한합니다. 언어의 버전은 BOJ에서 지원하는 것만 사용 가능합니다.
-- 순위 측정은 [ICPC Regional Rules](https://icpc.baylor.edu/regionals/rules)을 따릅니다. ("Scoring of a Regional Contest" 참고)
-- 기타 명시되지 않은 사항은 [2022 한국 대학생 프로그래밍 경시대회 서울 지역대회 예선](http://icpckorea.org/)의 규칙을 적용하여 운영진의 판단에 따라 결정할 수 있습니다.
-
-## 채점 환경
-
-- [백준 온라인 저지](https://www.acmicpc.net/)의 대회 기능을 통해 대회가 진행됩니다. 해당 사이트의 사용법을 숙지해주세요.
-- [채점에 관한 도움말](https://www.acmicpc.net/help/judge)
-- [언어에 관한 도움말](https://www.acmicpc.net/help/language)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemDPOupGUeRlCx6ExxiffLWU52QG-tq-uBR-neBvmcVNCTug/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
 
 ### 기타 문의사항은 010-4221-4309 또는 songmhrm@kaist.ac.kr로 연락주세요.
-
-## 등록
-
-- [Link to the form](https://docs.google.com/forms/d/e/1FAIpQLSdVzykTadgRTYlpbzvRWHOvy18DA6lY8Zrpss3fCwzVGcUFWg/viewform?usp=sf_link)
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVzykTadgRTYlpbzvRWHOvy18DA6lY8Zrpss3fCwzVGcUFWg/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
