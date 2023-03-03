@@ -9,6 +9,11 @@ permalink: /en/
 
 ## [\[ 2023 Spring Recruiting Now !!! (~3.20) \]](/en/apply/)
 
+### **\[23.03.03 Update\]**
+Regarding the club fee, it was announced that it was 3,000 won based on the previous standard.
+This is the previous standard amount and it will be increased to 10,000 won in 2023 due to the increase in the KAIST Student Club Union membership fee.
+We contacted the previous applicants individually regarding this. We apologize for the confusion.
+
 ### Introduction
 
 **RUN** is the algorithmic problem solving club of KAIST.
