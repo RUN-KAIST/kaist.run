@@ -1,12 +1,9 @@
 ---
 layout: default
-ref: index
+ref: contest-2023-spring
 lang: ko
-permalink: /ko/
-redirect_from: /index.html
+permalink: /ko/contest/2023-spring/
 ---
-
-### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
 <div style="text-align: center">
 	<img src="/contest/2023-spring/poster2023S.png" alt="poster" style="width: 350px;"/>
@@ -60,4 +57,4 @@ redirect_from: /index.html
 ## 등록
 
 - [Link to the form](https://docs.google.com/forms/d/e/1FAIpQLSf7xLxWhtBQk32azH9sdC_4-vekPAW_Ssm8X6rPVm3BcVTnkQ/viewform?usp=sf_link)
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7xLxWhtBQk32azH9sdC_4-vekPAW_Ssm8X6rPVm3BcVTnkQ/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7xLxWhtBQk32azH9sdC_4-vekPAW_Ssm8X6rPVm3BcVTnkQ/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
