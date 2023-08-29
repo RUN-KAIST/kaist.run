@@ -7,23 +7,24 @@ lang: en
 order: 1
 ---
 
-![poster](/about/poster/2019_spring/ko.png)
-
 <hr style="margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 ## Club activities
 
 ### Regular get-together
 
-Every Wednesday, 21:30-22:00
+Every Wednesday, 21:30-22:00 (Online)
 
 ### Training
 
 ![scoreboard](/about/scoreboard.png)
 
-Each of the members is divided into `practice class` and `education class` according to their skills.
+Members are divided into three groups according to their skills:
+`Beginner`, `Intermediate`, and `Advanced`.
 
-- `Practice class` : Practice by solving problems from  [Baekjoon Online Judge](https://www.acmicpc.net/)
-- `Education class` : Arrange seminar times by coordinating schedules among members, and follow basic algorithmic lectures and curricula of instructor(s)
+We use [Baekjoon Online Judge](https://www.acmicpc.net/).
+- `Beginner` : Basic problem solving techniques
+- `Intermediate` : Advanced algorithms
+- `Advanced` : Contest preparation and problem solving
 
 <hr style="margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
@@ -39,7 +40,6 @@ This is the main contest which our club is preparing for.
 
 #### [Codeforces](http://codeforces.com/)
 #### [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
-#### [Google Code Jam](https://code.google.com/codejam/)
 #### [SCPC](https://www.codeground.org/)
 
 <hr style="margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>

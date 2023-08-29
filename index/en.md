@@ -7,36 +7,20 @@ permalink: /en/
 
 # RUN: KAIST Algorithmic Problem Solving Club
 
-## [\[ 2023 Spring Recruiting Now !!! (~3.20) \]](/en/apply/)
+![poster](/apply/2023-fall/en.PNG)
 
-### **\[23.03.03 Update\]**
-Regarding the club fee, it was announced that it was 3,000 won based on the previous standard.
-This is the previous standard amount and it will be increased to 10,000 won in 2023 due to the increase in the KAIST Student Club Union membership fee.
-We contacted the previous applicants individually regarding this. We apologize for the confusion.
+## [\[ 2023 Fall Recruiting Now !!! (~9.8) \]](/en/apply/)
 
-### Introduction
+## Introduction
 
-**RUN** is the algorithmic problem solving club of KAIST.
-**RUN** studies various problem solving techniques and algorithmic knowledge together and prepares for various competitions such as **ICPC**, SCPC, Codeforces, etc.
-Anyone who is interested in the field of algorithms, discrete mathematics, etc. is welcome.
-You can become a member of **RUN** by submitting the following Google form without any additional selection process.
-There is almost no burden on activities and the club fee is only **3,000** won per semester.
-Please apply without any worries if you are interested.
+Hello, we are KAIST Algorithmic Problem Solving Club RUN.
 
-### Activities
+We study algorithmic problem solving, which is represented by online judges such as Codeforces.
 
-- Regular meeting time: every Wednesday at 9:30 **(not mandatory)**
-- Regular meeting place: announced every week (club room, online, N1, ...)
-- Activity content: algorithm seminar / study operated by level
-- Major events:
-  - RUN Spring Competition: held in early May, individual competition
-  - RUN Fall Competition: held in early October, team competition
+We are currently recruiting new members for the fall semester. If you are interested in problem solving techniques, or competitions such as ICPC, please join us!
 
-### [Application Form](/en/apply/)
+For more information about our activities, please refer to the [About](/en/about/) page.
 
-- Application deadline: March 20th
-- You can also apply after that, but from March 21st, we will not respond in real time.
-- 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemDPOupGUeRlCx6ExxiffLWU52QG-tq-uBR-neBvmcVNCTug/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
-
-### For other inquiries, please contact 010-4221-4309 or songmhrm@kaist.ac.kr
+- Application deadline: September 8th
+- [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLScPgqQZCSdMP-vzfFieKX9w0_dxllXtsOX5q5kcqPW3F0FrLg/viewform?usp=sf_link)
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPgqQZCSdMP-vzfFieKX9w0_dxllXtsOX5q5kcqPW3F0FrLg/viewform?usp=sf_link" frameborder="0" width="100%" height="1500px"></iframe>
