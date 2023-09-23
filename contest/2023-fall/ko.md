@@ -1,16 +1,11 @@
 ---
 layout: default
-ref: index
+ref: contest-2023-fall
 lang: ko
-permalink: /ko/
-redirect_from: /index.html
+permalink: /ko/contest/2023-fall/
 ---
 
-### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
-
-## 2023 가을 대회 신청중입니다 !!! (~10.6)
-
-## 2023 KAIST ICPC KAIST Mock Competition
+## 소개
 
 2023 KAIST ICPC KAIST Mock Competition이 10월 9일에 진행됩니다!
 
@@ -54,4 +49,4 @@ redirect_from: /index.html
 ## 등록
 
 - [Link to the form](https://forms.gle/Z3pkK9dukfrPvaX5A)
-  <iframe src="https://forms.gle/Z3pkK9dukfrPvaX5A" frameborder="0" width="100%" height="1500px"></iframe>
+<iframe src="https://forms.gle/Z3pkK9dukfrPvaX5A" frameborder="0" width="100%" height="1500px"></iframe>
