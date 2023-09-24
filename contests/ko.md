@@ -13,7 +13,7 @@ order: 3
 
 ### 2023 Spring
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3580) ([pdf](https://kaist.run/contest/2022-fall/problemset.pdf))
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3580) 
 * [Solutions](https://kaist.run/contest/2023-spring/editorial.pdf)
 
 ### 2022 Fall
