@@ -13,7 +13,7 @@ Starting from 2018 Fall, only English problem statements were given for all prob
 
 ### 2022 Fall
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3199) ([pdf](https://kaist.run/contest/2022-fall/problemset.pdf))
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3199)
  * [Solutions](https://kaist.run/contest/2022-fall/solution.pdf)
 
 ### 2022 Spring
