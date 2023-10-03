@@ -39,8 +39,9 @@ Total prize money of 1.5~2 million won will be provided. (TBD)
 - Each participant must bring a personal laptop, laptop charger, and writing utensils.
 - The competition is in teams of up to 3 people.
 - Up to one computer per team can be used.
-- The competition will last for 5 hours and 12 problems will be presented.
-- Each team can bring up to 20 sheets of team notes printed on one side with a font size of at least 5pt. The team notes may be inspected by the organizers before the start of the competition.
+- The competition will last for 5 hours and 13 problems will be presented.
+- Each team can bring up to 25 sheets of team notes printed on one side with a font size of at least 5pt. The team notes may be inspected by the organizers before the start of the competition.
+- The available languages are C, C++, Java, and Python3, and the judging environment follows http://icpckorea.org/archives/2725.
 
 ## Problems
 

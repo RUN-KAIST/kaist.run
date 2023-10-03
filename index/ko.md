@@ -9,6 +9,13 @@ redirect_from: /index.html
 ### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
 ## 2023 가을 대회 신청중입니다 !!! (~10.6)
+## [Update] 규칙 부분이 수정되었습니다. (10.3)
+
+<div style="text-align: center">
+	<img src="/contest/2023-fall/RUN2023FallPoster.PNG" alt="poster" style="width: 350px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+
 
 ## 2023 KAIST ICPC KAIST Mock Competition
 
@@ -40,8 +47,9 @@ redirect_from: /index.html
 - 각 참가자들은 개인 노트북, 노트북 충전기, 그리고 필기도구를 지참하여야 합니다.
 - 최대 3명으로 구성된 팀 단위의 대회입니다.
 - 컴퓨터는 팀당 1대까지 이용할 수 있습니다.
-- 대회는 5시간 동안 진행되며, 12개의 문제가 출제됩니다.
-- 각 팀별로 최대 20장 폰트 5pt 이상의, 단면 인쇄된 팀 노트를 지참할 수 있습니다. 팀노트는 대회 시작 전 운영진이 검사를 요구할 수 있습니다.
+- 대회는 5시간 동안 진행되며, 13개의 문제가 출제됩니다.
+- 각 팀별로 최대 25장 폰트 5pt 이상의, 단면 인쇄된 팀 노트를 지참할 수 있습니다. 팀노트는 대회 시작 전 운영진이 검사를 요구할 수 있습니다.
+- 사용 가능 언어는 C, C++, Java, Python3이며 채점 환경은 http://icpckorea.org/archives/2725 을 따릅니다.
 
 ## 채점 환경
 

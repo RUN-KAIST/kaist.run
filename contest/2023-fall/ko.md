@@ -5,6 +5,11 @@ lang: ko
 permalink: /ko/contest/2023-fall/
 ---
 
+<div style="text-align: center">
+	<img src="/contest/2023-fall/RUN2023FallPoster.PNG" alt="poster" style="width: 350px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+
 ## 소개
 
 2023 KAIST ICPC KAIST Mock Competition이 10월 9일에 진행됩니다!
