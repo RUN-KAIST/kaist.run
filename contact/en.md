@@ -7,7 +7,7 @@ lang: en
 order: 100
 ---
 
-- This year(2023)'s Club president: Junhyuk Song
-  - Phone number: 010-4221-4309
-  - Email: [songmhrm@kaist.ac.kr](mailto:songmhrm@kaist.ac.kr)
+- This year(2024)'s Club president: Yerin Lee
+  - Phone number: 010-9884-9939
+  - Email: [abra_stone@kaist.ac.kr](mailto:abra_stone@kaist.ac.kr)
 - Club Email: [contact@kaist.run](mailto:contact@kaist.run)
