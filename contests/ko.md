@@ -11,6 +11,11 @@ order: 3
 
 ## 과거 기출 문제
 
+### 2023 Fall
+
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3999) 
+* [Solutions](https://u.acmicpc.net/c55549f6-ca01-4ecc-9d98-c3e82181d645/2023_KAIST_13th_ICPC_Mock_Competition_editorial.pdf)
+
 ### 2023 Spring
 
 * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3580) 
