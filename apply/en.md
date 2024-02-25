@@ -7,7 +7,7 @@ lang: en
 order: 2
 ---
 
-![poster](/apply/2023-fall/en.PNG)
+![poster](/apply/2024-spring/RecruitingPoster.png)
 
 - Application closes after March 5th.
 - [구글 설문지 링크](https://forms.gle/tqpWp6sYDKRrUGdDA)

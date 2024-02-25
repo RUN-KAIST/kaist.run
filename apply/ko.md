@@ -7,7 +7,7 @@ lang: ko
 order: 2
 ---
 
-![poster](/apply/2023-fall/ko.PNG)
+![poster](/apply/2024-spring/RecruitingPoster.png)
 
 - 모집 기한: 3월 5일까지
 - [구글 설문지 링크](https://forms.gle/tqpWp6sYDKRrUGdDA)
