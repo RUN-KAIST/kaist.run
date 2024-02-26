@@ -10,7 +10,7 @@ permalink: /en/
 ## Recruiting for the spring semester of 2024 is underway!!! (~3.5)
 
 <div style="text-align: center">
-  <img src="/apply/2024-spring/RecruitingPoster.png" alt="poster" style="width: 350px;"/>
+  <img src="/apply/2024-spring/RecruitingPoster.png" alt="poster" style="width: 700px;"/>
 </div>
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 

@@ -11,7 +11,7 @@ redirect_from: /index.html
 ## 2024년 봄학기 리크루팅이 진행중입니다!!! (~3.5)
 
 <div style="text-align: center">
-	<img src="/apply/2024-spring/RecruitingPoster.png" alt="poster" style="width: 350px;"/>
+	<img src="/apply/2024-spring/RecruitingPoster.png" alt="poster" style="width: 700px;"/>
 </div>
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
