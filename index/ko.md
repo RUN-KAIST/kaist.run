@@ -8,7 +8,7 @@ redirect_from: /index.html
 
 ### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
-## 2024 KAIST RUN Spring Contest 참가 신청이 진행중입니다!!! (~5.3 13:00)
+## 2024 KAIST RUN Spring Contest가 5월 6일에 개최됩니다!!! (참가 신청: ~5.3 13:00)
 
 <div style="text-align: center">
 	<img src="/contest/2024-spring/poster2024S.png" alt="poster" style="width: 700px;"/>
