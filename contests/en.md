@@ -11,6 +11,11 @@ Starting from 2018 Fall, only English problem statements were given for all prob
 
 ## Past contests
 
+### 2024 Spring
+
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4207) 
+* [Solutions](https://kaist.run/contest/2024-spring/editorial.pdf)
+
 ### 2023 Fall
 
 * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3999) 
