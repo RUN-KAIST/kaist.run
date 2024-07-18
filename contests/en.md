@@ -7,8 +7,6 @@ lang: en
 order: 3
 ---
 
-Starting from 2018 Fall, only English problem statements were given for all problems.
-
 ## Past contests
 
 ### 2024 Spring
