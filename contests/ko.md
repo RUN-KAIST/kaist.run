@@ -11,6 +11,11 @@ order: 3
 
 ## 과거 기출 문제
 
+### 2024 Spring
+
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4207) 
+* [Solutions](contest\2024-spring\solution.pdf)
+
 ### 2023 Fall
 
 * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3999) 
