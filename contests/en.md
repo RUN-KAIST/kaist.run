@@ -11,7 +11,7 @@ order: 3
 
 ### 2024 Spring
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4207) 
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4207) ([Korean pdf](https://kaist.run/contest/2024-spring/problemset_ko.pdf), [English pdf](https://kaist.run/contest/2024-spring/problemset_en.pdf))
 * [Solutions](https://kaist.run/contest/2024-spring/editorial.pdf)
 
 ### 2023 Fall
