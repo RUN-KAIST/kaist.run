@@ -8,7 +8,7 @@ redirect_from: /index.html
 
 # KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
-## [\[ 2024 가을 리크루팅 중!!! (~9.1) \]]
+## [ 2024 가을 리크루팅 중!!! (~9.1) ]
 ![poster](/apply/2024-fall/2024FallRecruitingPoster.png)
 
 안녕하세요, KAIST 알고리즘 문제해결 동아리 RUN입니다.

@@ -7,7 +7,7 @@ permalink: /en/
 
 # KAIST Algorithmic Problem Solving Club RUN
 
-## [\[ 2024 Fall Recruiting Now !!! (~9.1) \]]
+## [ 2024 Fall Recruiting Now !!! (~9.1) ]
 ![poster](/apply/2024-fall/2024FallRecruitingPoster.png)
 
 Hello, this is RUN, the KAIST Algorithm Problem Solving Club.  
