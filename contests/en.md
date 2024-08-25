@@ -6,6 +6,12 @@ ref: contests
 lang: en
 order: 3
 ---
+## Upcoming competitions
+
+### 2024 KAIST 14th ICPC Mock Competition (TBD)
+* Date: October 3, 2024
+* Location: KAIST N1 IT Convergence Building
+* Format: Team competition with 3 members, solving around 12 problems over approximately 5 hours (same format as the Korean Collegiate Programming Contest)
 
 ## Past contests
 

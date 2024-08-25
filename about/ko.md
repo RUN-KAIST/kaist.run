@@ -10,7 +10,7 @@ order: 1
 <hr style="margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 ## 동아리 내부 정기 활동
 ### 정모
-매주 수요일 21:30 ~ 22:00 (온라인)
+매주 수요일 21:30 ~ 22:30 (온라인)
 ### 스터디
 ![scoreboard](/about/scoreboard.png)
 각 회원은 `초급반`, `중급반`, `고급반` 중 원하는 스터디를 선택해 수강할 수 있습니다.
@@ -39,5 +39,5 @@ RUN의 주 목적인 대회로, 매년 가을에 열립니다.
 RUN 회원들이 직접 문제를 출제합니다.
 
 ### [가을] 교내 ICPC 모의대회
-ICPC가 열리기 전에 교내 모의대회를 개최합니다.  
+ICPC가 열리기 전에 교내 모의대회를 개최합니다.
 RUN 회원들이 직접 문제를 출제합니다.

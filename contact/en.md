@@ -10,4 +10,3 @@ order: 100
 - This year(2024)'s Club president: Yerin Lee
   - Phone number: 010-9884-9939
   - Email: [abra_stone@kaist.ac.kr](mailto:abra_stone@kaist.ac.kr)
-- Club Email: [contact@kaist.run](mailto:contact@kaist.run)

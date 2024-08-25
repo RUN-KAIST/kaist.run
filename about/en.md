@@ -12,7 +12,7 @@ order: 1
 
 ### Regular get-together
 
-Every Wednesday, 21:30-22:00 (Online)
+Every Wednesday, 21:30-22:30 (Online)
 
 ### Study
 
