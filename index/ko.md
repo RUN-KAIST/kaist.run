@@ -6,15 +6,18 @@ permalink: /ko/
 redirect_from: /index.html
 ---
 
-### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
+# KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
-## 2024 KAIST RUN Spring Contest가 5월 6일에 개최됩니다!!! (참가 신청: ~5.3 15:00)
+## [\[ 2024 가을 리크루팅 중!!! (~9.1) \]](/ko/apply/)
+![poster](/apply/2024-fall/2024FallRecruitingPoster.png)
 
-<div style="text-align: center">
-	<img src="/contest/2024-spring/poster2024S.png" alt="poster" style="width: 700px;"/>
-</div>
-<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+안녕하세요, KAIST 알고리즘 문제해결 동아리 RUN입니다.
+2024년 가을학기를 맞아 RUN에서 활동할 신입 부원을 모집합니다!
 
-- 신청 기한: 5월 3일 15시까지
-- [구글 설문지 링크](https://forms.gle/V1pA3BFhW1znjJKq9)
-<iframe src="https://forms.gle/V1pA3BFhW1znjJKq9" frameborder="0" width="100%" height="1500px"></iframe>
+- 모집 기한: 9월 1일까지 (권고) / 이후에도 입부 가능
+- 면접: 없음
+- 동방 위치: N11 우체국건물 3103호
+- 정모: 수요일 21:30 ~ 22:30 (첫 정모 제외 온라인)
+- 문의: 이예린 010-9884-9939
+- [구글 설문지 링크](https://forms.gle/Mox8MiqTFAQ2MVTZ9)
+<iframe src="https://forms.gle/Mox8MiqTFAQ2MVTZ9" frameborder="0" width="100%" height="1500px"></iframe>
