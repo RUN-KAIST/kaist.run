@@ -9,7 +9,7 @@ order: 2
 
 ![poster](/apply/2024-fall/2024FallRecruitingPoster.png)
 
-안녕하세요, KAIST 알고리즘 문제해결 동아리 RUN입니다.
+안녕하세요, KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 2024년 가을학기를 맞아 RUN에서 활동할 신입 부원을 모집합니다!
 
 - 모집 기한: 9월 1일까지 (권고) / 이후에도 입부 가능
