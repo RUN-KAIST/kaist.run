@@ -41,7 +41,7 @@ Special Prize (External teams are also eligible)
 - Each participant must bring a personal laptop, laptop charger, and writing utensils.
 - The competition is in teams of up to 3 people.
 - Up to one computer per team can be used.
-- The competition will last for 5 hours and 13 problems will be presented.
+- The competition will last for 5 hours, with approximately 13 problems presented.
 - Each team can bring up to 25 sheets of team notes printed on one side with a font size of at least 5pt. The team notes may be inspected by the organizers before the start of the competition.
 - The available languages are C, C++, Java, Python3, and Kotlin.
 
@@ -51,7 +51,9 @@ Special Prize (External teams are also eligible)
 - [Help with judging](https://www.acmicpc.net/help/judge)
 - [Help with languages](https://www.acmicpc.net/help/language)
 
-#### Please contact 010-9884-9939 or abra_stone@kaist.ac.kr
+#### Contact
+* 010-9884-9939
+* abra_stone@kaist.ac.kr
 
 ## Past contests
 
