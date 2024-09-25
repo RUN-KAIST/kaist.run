@@ -8,10 +8,50 @@ order: 3
 ---
 ## Upcoming competitions
 
-### 2024 KAIST 14th ICPC Mock Competition (TBD)
+### 2024 KAIST 14th ICPC Mock Competition
+
 * Date: October 3, 2024
-* Location: KAIST N1 IT Convergence Building
-* Format: Team competition with 3 members, solving around 12 problems over approximately 5 hours (same format as the Korean Collegiate Programming Contest)
+* Location: KAIST N1 IT Convergence Building room #117
+* Format: Team competition with 3 members, solving around 13 problems over approximately 5 hours (same format as ICPC)
+* Registration
+    * [Link for External Team Application](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
+    * [Link for Internal Team Application](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 23:59)
+
+```
+Schedule
+11:40~12:00 | Competition Guidelines and Preparation
+12:00~17:00 | Contest
+17:00~18:00 | Sponsor Seminar & Award Ceremony
+18:00~      | Afterparty (Full support for 2024 Fall semester RUN full members through membership fees)
+```
+
+#### Prizes
+
+Main Prize (Only internal teams are eligible)
+* 1st Place Team: 900,000 KRW
+* 2nd Place Team: 600,000 KRW
+* 3rd Place Team: 300,000 KRW
+
+Special Prize (External teams are also eligible)
+* Not disclosed
+
+#### Rules
+
+- Internal teams consist only of KAIST students (including graduate students, exchange students, etc.). Teams that include one or more individuals who are not KAIST students are considered external teams.
+- Each participant must bring a personal laptop, laptop charger, and writing utensils.
+- The competition is in teams of up to 3 people.
+- Up to one computer per team can be used.
+- The competition will last for 5 hours and 13 problems will be presented.
+- Each team can bring up to 25 sheets of team notes printed on one side with a font size of at least 5pt. The team notes may be inspected by the organizers before the start of the competition.
+- The available languages are C, C++, Java, Python3, and Kotlin.
+
+#### Problems
+
+- [Baekjoon Online Judge](https://www.acmicpc.net/) will be used for the competition. Please familiarize yourself with the site.
+- [Help with judging](https://www.acmicpc.net/help/judge)
+- [Help with languages](https://www.acmicpc.net/help/language)
+
+#### Please contact 010-9884-9939 or abra_stone@kaist.ac.kr
 
 ## Past contests
 
