@@ -28,9 +28,7 @@ Schedule
 #### Prizes
 
 Main Prize (Only internal teams are eligible)
-* 1st Place Team: 900,000 KRW
-* 2nd Place Team: 600,000 KRW
-* 3rd Place Team: 300,000 KRW
+* TBD
 
 Special Prize (External teams are also eligible)
 * Not disclosed
