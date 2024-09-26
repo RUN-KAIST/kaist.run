@@ -13,9 +13,9 @@ order: 3
 * Date: October 3, 2024
 * Location: KAIST N1 IT Convergence Building room #117
 * Format: Team competition with 3 members, solving around 13 problems over approximately 5 hours (same format as ICPC)
-* Registration
+* Registration **(The application deadline for internal teams has been updated!)**
     * [Link for External Team Application](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
-    * [Link for Internal Team Application](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 23:59)
+    * [Link for Internal Team Application](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
 
 ```
 Schedule
