@@ -15,3 +15,5 @@ For more details, please refer to the [Competition](https://kaist.run/en/contest
 * [Link for Internal Team Application](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
 
 **The application deadline for internal teams has been updated!**
+
+![poster](/contest/2024-fall/poster2024F.png)
