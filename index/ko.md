@@ -14,4 +14,6 @@ redirect_from: /index.html
 올해는 더 많은 분들의 ICPC 대비에 도움이 되었으면 해서, KAIST 학생이 아닌 분들도 게스트로 참가하는 것을 허용합니다!   
 자세한 내용은 [대회](https://kaist.run/ko/contests/) 페이지를 참고해주세요.
 * [외부팀용 신청 링크](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
-* [내부팀용 신청 링크](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 23:59)
+* [내부팀용 신청 링크](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
+
+내부팀 신청 기한이 수정되었습니다!
