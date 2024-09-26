@@ -16,4 +16,4 @@ redirect_from: /index.html
 * [외부팀용 신청 링크](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
 * [내부팀용 신청 링크](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
 
-내부팀 신청 기한이 수정되었습니다!
+**내부팀 신청 기한이 수정되었습니다!**
