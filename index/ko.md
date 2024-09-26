@@ -17,3 +17,5 @@ redirect_from: /index.html
 * [내부팀용 신청 링크](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
 
 **내부팀 신청 기한이 수정되었습니다!**
+
+![poster](/contest/2024-fall/poster2024F.png)

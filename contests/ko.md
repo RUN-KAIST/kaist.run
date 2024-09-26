@@ -10,6 +10,8 @@ order: 3
 
 ### 2024 KAIST 14th ICPC Mock Competition
 
+![poster](/contest/2024-fall/poster2024F.png)
+
 * 일시: 2024년 10월 3일 (개천절)
 * 장소: KAIST N1 IT 융합 빌딩 117호
 * 방식: 3인 1팀 대회, 약 5시간 동안 13문제 내외 해결 (한국 대학생 프로그래밍 경시대회와 동일한 포맷)

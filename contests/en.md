@@ -10,6 +10,8 @@ order: 3
 
 ### 2024 KAIST 14th ICPC Mock Competition
 
+![poster](/contest/2024-fall/poster2024F.png)
+
 * Date: October 3, 2024 (National Foundation Day)
 * Location: KAIST N1 IT Convergence Building room #117
 * Format: Team competition with 3 members, solving around 13 problems over approximately 5 hours (same format as ICPC)
