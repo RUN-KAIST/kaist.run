@@ -6,16 +6,15 @@ permalink: /ko/
 redirect_from: /index.html
 ---
 
-# KAIST 알고리즘 문제 해결 동아리 RUN입니다.
+### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
-## [ 2024 KAIST 14th ICPC Mock Competition 참가 신청 ]
+## 2025년 봄학기 리크루팅이 진행중입니다!!! (~3.4)
 
-2024년 10월 3일 개천절에 KAIST N1에서 2024 KAIST 14th ICPC Mock Competition이 개최됩니다!   
-올해는 더 많은 분들의 ICPC 대비에 도움이 되었으면 해서, KAIST 학생이 아닌 분들도 게스트로 참가하는 것을 허용합니다!   
-자세한 내용은 [대회](https://kaist.run/ko/contests/) 페이지를 참고해주세요.
-* [외부팀용 신청 링크](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
-* [내부팀용 신청 링크](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
+<div style="text-align: center">
+	<img src="/apply/2025-spring/런포스터 최종-1.png" alt="poster" style="width: 700px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
-**내부팀 신청 기한이 수정되었습니다!**
-
-![poster](/contest/2024-fall/poster2024F.png)
+- 모집 기한: 3월 4일까지 (이후에도 입부는 가능)
+- [구글 설문지 링크](https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA)
+<iframe src="https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA" frameborder="0" width="100%" height="1500px"></iframe>

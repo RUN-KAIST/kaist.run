@@ -5,15 +5,15 @@ lang: en
 permalink: /en/
 ---
 
-# KAIST Algorithmic Problem Solving Club RUN
+### KAIST Algorithmic Problem Solving Club RUN
 
-## [ 2024 KAIST 14th ICPC Mock Competition Application ]
-The 2024 KAIST 14th ICPC Mock Competition will be held at KAIST N1 on October 3, 2024, National Foundation Day!   
-This year, we are allowing non-KAIST students to participate as guests in order to help more people prepare for ICPC.   
-For more details, please refer to the [Competition](https://kaist.run/en/contests/) page.
-* [Link for External Team Application](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
-* [Link for Internal Team Application](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
+## Recruiting for the spring semester of 2025 is underway!!! (~3.4)
 
-**The application deadline for internal teams has been updated!**
+<div style="text-align: center">
+  <img src="/apply/2025-spring/런포스터 최종-1.png" alt="poster" style="width: 700px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
-![poster](/contest/2024-fall/poster2024F.png)
+- Application closes after March 4th.
+- [구글 설문지 링크](https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA)
+  <iframe src="https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA" frameborder="0" width="100%" height="1500px"></iframe>
