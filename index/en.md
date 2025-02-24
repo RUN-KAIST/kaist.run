@@ -7,7 +7,7 @@ permalink: /en/
 
 ### KAIST Algorithmic Problem Solving Club RUN
 
-## Recruiting for the spring semester of 2025 is underway!!! (~3.5)
+## Recruiting for the spring semester of 2025 is underway!!! (~3.4)
 
 <div style="text-align: center">
   <img src="/apply/2025-spring/런포스터 최종-1.png" alt="poster" style="width: 700px;"/>
