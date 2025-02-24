@@ -16,4 +16,4 @@ permalink: /en/
 
 - Application closes after March 5th.
 - [구글 설문지 링크](https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA)
-  <iframe src="https://forms.gle/tqpWp6sYDKRrUGdDA" frameborder="0" width="100%" height="1500px"></iframe>
+  <iframe src="https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA/edit" frameborder="0" width="100%" height="1500px"></iframe>
