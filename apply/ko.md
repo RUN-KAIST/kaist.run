@@ -18,4 +18,4 @@ order: 2
 
 - 모집 기한: 3월 4일까지 (이후에도 입부는 가능)
 - [구글 설문지 링크](https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA)
-<iframe src="https://forms.gle/Mox8MiqTFAQ2MVTZ9" frameborder="0" width="100%" height="1500px"></iframe>
+<iframe src="https://docs.google.com/forms/d/1-iNK6fNTvhmlvSH_kB2CKmYUZjq6GrAkTK2jHKTohsA" frameborder="0" width="100%" height="1500px"></iframe>
