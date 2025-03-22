@@ -79,7 +79,7 @@ Special Prize (External teams are also eligible)
 
 ### 2022 Fall
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3199)
+ * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3199) ([pdf](https://kaist.run/contest/2022-fall/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2022-fall/solution.pdf)
 
 ### 2022 Spring
