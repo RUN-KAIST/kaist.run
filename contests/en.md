@@ -57,6 +57,11 @@ Special Prize (External teams are also eligible)
 
 ## Past contests
 
+### 2024 Fall
+
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4305) ([pdf](https://kaist.run/contest/2024-fall/problemset.pdf), [Codeforces](https://codeforces.com/gym/105401))
+* [Solutions](https://kaist.run/contest/2024-fall/editorial.pdf)
+
 ### 2024 Spring
 
 * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4207) ([Korean pdf](https://kaist.run/contest/2024-spring/problemset_ko.pdf), [English pdf](https://kaist.run/contest/2024-spring/problemset_en.pdf))
