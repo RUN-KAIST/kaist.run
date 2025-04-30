@@ -21,8 +21,8 @@ redirect_from: /index.html
 * 장소: KAIST N1 IT 융합 빌딩 117호
 * 방식: 개인 대회
 * 등록 (**5월 2일 23시까지**)
-  - KAIST 학생 참가 신청 링크 https://forms.gle/3czmTe38cqsn7Vay6
-  - 외부인 참가 신청 링크 https://forms.gle/v8Nj9mkQ7cLnPTCDA
+  - [KAIST 학생 참가 신청 링크](https://forms.gle/3czmTe38cqsn7Vay6)
+  - [외부인 참가 신청 링크](https://forms.gle/v8Nj9mkQ7cLnPTCDA)
 
 ```
 대회 당일 시간표
