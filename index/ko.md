@@ -10,6 +10,8 @@ redirect_from: /index.html
 
 ## 2025 KAIST RUN Spring Contest가 열립니다!
 
+(UPD: KAIST 외부 참가자도 받습니다! 참가 신청 링크가 다르니 주의해주세요)
+
 <div style="text-align: center">
 	<img src="/contest/2025-spring/2025 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
 </div>
@@ -18,7 +20,9 @@ redirect_from: /index.html
 * 일시: 2025년 5월 5일 (어린이날)
 * 장소: KAIST N1 IT 융합 빌딩 117호
 * 방식: 개인 대회
-* 등록: https://forms.gle/3czmTe38cqsn7Vay6 (**5월 2일 23시까지**)
+* 등록 (**5월 2일 23시까지**)
+  - KAIST 학생 참가 신청 링크 https://forms.gle/3czmTe38cqsn7Vay6
+  - 외부인 참가 신청 링크 https://forms.gle/v8Nj9mkQ7cLnPTCDA
 
 ```
 대회 당일 시간표
