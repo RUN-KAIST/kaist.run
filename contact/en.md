@@ -7,8 +7,8 @@ lang: en
 order: 100
 ---
 
-- This year(2024)'s Club president: Yerin Lee
-  - Phone number: 010-9884-9939
-  - Email: [abra_stone@kaist.ac.kr](mailto:abra_stone@kaist.ac.kr)
+- This year(2025)'s Club president: Young-woo Park
+  - Phone number: 010-7605-8717
+  - Email: [asdfsdf@kaist.ac.kr](mailto:asdfsdf@kaist.ac.kr)
 - Fraternal Twin
   - [SNUPS](https://snups.org)
