@@ -1,0 +1,35 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare for Jekyll Build
+        run: |
+          mkdir _includes
+          cp apply/en.md _includes/apply_en.md
+          cp apply/ko.md _includes/apply_ko.md
+          cp contests/en.md _includes/contests_en.md
+          cp contests/ko.md _includes/contests_ko.md
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

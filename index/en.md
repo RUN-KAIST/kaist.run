@@ -6,4 +6,4 @@ permalink: /en/
 redirect_from: /index.html
 ---
 
-{% include_relative ../apply/en.md %}
+{% include apply_en.md %}
