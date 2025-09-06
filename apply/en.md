@@ -7,7 +7,9 @@ lang: en
 order: 2
 ---
 
-### Recruiting for the fall semester of 2025 is underway!!!
+# KAIST Algorithmic Problem Solving Club RUN.
+
+## Recruiting for the fall semester of 2025 is underway!!!
 
 <div style="text-align: center">
   <img src="/apply/2025-spring/런포스터 최종-1.png" alt="poster" style="width: 700px;"/>
