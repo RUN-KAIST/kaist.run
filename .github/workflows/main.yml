@@ -1,9 +1,9 @@
-name: Build and Deploy Jekyll Site
+name: Build and Deploy Jekyll Site to Pages
 
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 permissions:
@@ -11,12 +11,22 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
 
       - name: Prepare for Jekyll Build
         run: |
@@ -27,11 +37,10 @@ jobs:
           cp contests/ko.md _includes/contests_ko.md
 
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
+        run: bundle exec j Jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
