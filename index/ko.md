@@ -6,4 +6,4 @@ permalink: /ko/
 redirect_from: /index.html
 ---
 
-{% include_relative ../apply/ko.md %}
+{% include apply_ko.md %}
