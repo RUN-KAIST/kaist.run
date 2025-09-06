@@ -17,6 +17,9 @@ jobs:
         run: |
           mkdir _includes
           cp apply/en.md _includes/apply_en.md
+          cp apply/ko.md _includes/apply_ko.md
+          cp contests/en.md _includes/contests_en.md
+          cp contests/ko.md _includes/contests_ko.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
