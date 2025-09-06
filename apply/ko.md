@@ -7,9 +7,7 @@ lang: ko
 order: 2
 ---
 
-### KAIST 알고리즘 문제 해결 동아리 RUN입니다.
-
-## 2025년 가을학기 리크루팅이 진행중입니다!!!
+### 2025년 가을학기 리크루팅이 진행중입니다!!!
 
 <div style="text-align: center">
   <img src="/apply/2025-spring/런포스터 최종-1.png" alt="poster" style="width: 700px;"/>
