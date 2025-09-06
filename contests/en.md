@@ -6,56 +6,72 @@ ref: contests
 lang: en
 order: 3
 ---
-## Upcoming competitions
 
-### 2024 KAIST 14th ICPC Mock Competition
+## The 2025 KAIST RUN Spring Contest is here!
 
-![poster](/contest/2024-fall/poster2024F.png)
+(UPD: KAIST Participants outside KAIST are also welcome! Make sure to use the seperate registration link)
 
-* Date: October 3, 2024 (National Foundation Day)
-* Location: KAIST N1 IT Convergence Building room #117
-* Format: Team competition with 3 members, solving around 13 problems over approximately 5 hours (same format as ICPC)
-* Registration **(The application deadline for internal teams has been updated!)**
-    * [Link for External Team Application](https://forms.gle/JsCjZjH349zPySBj8) (~9/28 23:59)
-    * [Link for Internal Team Application](https://forms.gle/eXHjDzBoHeHuGmjEA) (~9/30 **13:00**)
+<div style="text-align: center">
+	<img src="/contest/2025-spring/2025 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
+</div>
+<hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
+
+* Date: May 5th, 2025 (Children's Day)
+* Venue: KAIST N1 Kim-Beang-Ho & Kim Sam-Youl ITC buliding, Room 117
+* Format: Individual contest
+* Registration deadline (**May 2nd, 23:00**)
+  - [Registration for KAIST students](https://forms.gle/3czmTe38cqsn7Vay6)
+  - [Registration for non-KAIST participants](https://forms.gle/v8Nj9mkQ7cLnPTCDA)
 
 ```
-Schedule
-11:40~12:00 | Competition Guidelines and Preparation
-12:00~17:00 | Contest
-17:00~18:00 | Sponsor Seminar & Award Ceremony
-18:00~      | Afterparty (Full support for 2024 Fall semester RUN full members through membership fees)
+Contest schedule(KST)
+12:00~12:40 | entry and registration
+12:40~13:00 | contest briefing and preparation
+13:00~18:00 | Contest
+18:00~18:20 | Break
+18:20~19:00 | Scoreboard reveal & awards
+19:00~      | After party (Fully supported for 2025 Spring RUN members)
 ```
 
-#### Prizes
+#### Awards
 
-Main Prize (Only internal teams are eligible)
-* TBD
+Ranking Awards
+* 1st Place: Galaxy Watch 7
+* 2nd Place: Galaxy Buds 3 Pro
+* 3rd Place: Logitech G Pro X Superlight
 
-Special Prize (External teams are also eligible)
-* Not disclosed
+Awards given to the first solvers of each problem
+* Awarded to the highest scorer for each problem.
+* In case of a tie, the participant who reached the top score first will be awarded.
+
+Special Prizes
+* To be revealed during the award ceremony.
 
 #### Rules
 
-- Internal teams consist only of KAIST students (including graduate students, exchange students, etc.). Teams that include one or more individuals who are not KAIST students are considered external teams.
-- Each participant must bring a personal laptop, laptop charger, and writing utensils.
-- The competition is in teams of up to 3 people.
-- Up to one computer per team can be used.
-- The competition will last for 5 hours, with approximately 13 problems presented.
-- Each team can bring up to 25 sheets of team notes printed on one side with a font size of at least 5pt. The team notes may be inspected by the organizers before the start of the competition.
-- The available languages are C, C++, Java, Python3, and Kotlin.
+- Participants must bring their own laptop, charger and stationery.
+- Only one computer per person is allowed.
+- The contest lasts for 5 hours and consists of 9 problems, arranged in increasing difficulty.
+- Participants may leave early, but may recieve disadvantages in winning certain prizes.
+- No internet access is allowed during the contest, except for the contest platform. Use of generative AI tools for any purpose is strictly prohibited and considered cheating.
+- Each participant may bring up to 25 printed pages, single-sided, in font size 5pt or larger. These team notes will be inspected during registration.
+- Prewritten code is not allowed—you may only use code written during the contest.
+- The contest will be hosted on Baekjoon Online Judge (BOJ). Please familiarize yourself with its environment.
+- Only languages supported by BOJ may be used.
+- **At least one problem will be interactive or two-step.**
 
-#### Problems
+#### Judging Environment
 
-- [Baekjoon Online Judge](https://www.acmicpc.net/) will be used for the competition. Please familiarize yourself with the site.
-- [Help with judging](https://www.acmicpc.net/help/judge)
-- [Help with languages](https://www.acmicpc.net/help/language)
+- The contest will be held using [Baekjoon Online Judge](https://www.acmicpc.net/)'s contest system. Please familiarize yourself with the platform.
+- [Help: Judging rules](https://www.acmicpc.net/help/judge)
+- [Help: Programming Languages](https://www.acmicpc.net/help/language)
 
 #### Contact
-* 010-9884-9939
-* abra_stone@kaist.ac.kr
 
-## Past contests
+* 010-7605-8717
+* asdfsdf@kaist.ac.kr (박영우(the club's president))
+
+## Past Contests
 
 ### 2024 Fall
 
@@ -111,7 +127,7 @@ Special Prize (External teams are also eligible)
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2063) ([pdf](https://kaist.run/contest/2019-fall/problemset.pdf))
  * [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
  * [Polygon package (full)](https://drive.google.com/drive/folders/1sQVuxaLZGQUGHk_Ux0USjeGKnieJq62X?usp=sharing)
- 
+
 ### 2019 Spring
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2022) ([pdf](https://kaist.run/contest/2019-spring/problemset.pdf))
@@ -136,8 +152,8 @@ Special Prize (External teams are also eligible)
 
  * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1759) ([Korean pdf](https://drive.google.com/open?id=1QoXaCAMgAlBzfL0-fNYocBpAl393-DDJ), [English pdf](https://drive.google.com/open?id=10aC49yRSxyaBdTCTsCdPgdKJE55Zv-z_))
  * [Solutions](https://drive.google.com/open?id=1GuJqgCYzjeVy3A8vPem_zcDxt7gQYx8_) ([Korean version](https://drive.google.com/open?id=1U7IzHUzUShbHYugZtGYD6ZAhwmWR77Ee))
- * Selected problems are used in [GP of Korea #3](http://codeforces.com/blog/entry/62435).
- * Problem E is removed by author's request.
+ * Some problems were used in [GP of Korea #3](http://codeforces.com/blog/entry/62435).
+ * Problem E was deleted due to the request of the author of the problem.
 
 ### 2017 Spring 
 
@@ -145,7 +161,8 @@ Special Prize (External teams are also eligible)
  * Solutions: [English version](https://drive.google.com/open?id=1N7GuLhgmu9-Y-pCu8xZnfkaaQ2rz4xSA), [Korean version](https://drive.google.com/open?id=1LQHJGEMbelK-IBbI30rlpkPqTxz4oAo_)
 
 ### 2016 Fall
- * [Problems in Baekjoon Online Judge (Korean only)](https://www.acmicpc.net/category/detail/1521) (English problemset is archived in our club room storage.)
+
+ * [Problems in Baekjoon Online Judge (Korean only)](https://www.acmicpc.net/category/detail/1521)
 
 ### 2016 Spring
  * [Problems in Baekjoon Online Judge (Korean only)](https://www.acmicpc.net/category/detail/1486)
