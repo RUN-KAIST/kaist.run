@@ -6,7 +6,7 @@ permalink: /en/
 redirect_from: /index.html
 ---
 
-### KAIST Algorithmic Problem Solving Club RUN.
+# KAIST Algorithmic Problem Solving Club RUN.
 
 ## The 2025 KAIST RUN Spring Contest is here!
 
