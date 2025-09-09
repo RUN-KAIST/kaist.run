@@ -12,3 +12,4 @@ order: 100
   - 이메일: [asdfsdf@kaist.ac.kr](mailto:asdfsdf@kaist.ac.kr)
 - 이란성 쌍둥이
   - [SNUPS](https://snups.org)
+- contact@kaist.run은 현재 사용되지 않습니다.
