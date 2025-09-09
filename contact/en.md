@@ -12,3 +12,4 @@ order: 100
   - Email: [asdfsdf@kaist.ac.kr](mailto:asdfsdf@kaist.ac.kr)
 - Fraternal Twin
   - [SNUPS](https://snups.org)
+- contact@kaist.run is no longer in use.
