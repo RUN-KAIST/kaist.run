@@ -8,6 +8,8 @@ redirect_from: /index.html
 
 # KAIST Algorithmic Problem Solving Club RUN.
 
+[The 2025 ICPC Seoul Regional registration is now open.](https://kaist.run/en/icpc/)
+
 {% include apply_en.md %}
 <!-- {% include contests_en.md %} -->
 
