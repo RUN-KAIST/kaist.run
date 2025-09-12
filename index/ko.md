@@ -8,7 +8,7 @@ redirect_from: /index.html
 
 # KAIST 알고리즘 문제 해결 동아리 RUN입니다.
 
-[2025 ICPC Seoul Regional 등록이 시작되었습니다.](https://kaist.run/ko/icpc/)
+## [2025 ICPC Seoul Regional 등록이 시작되었습니다.](https://kaist.run/ko/icpc/)
 
 {% include apply_ko.md %}
 <!-- {% include contests_ko.md %} -->
