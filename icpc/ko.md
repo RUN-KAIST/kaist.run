@@ -14,4 +14,5 @@ order: 2
 - 팀원 중 한 명만 신청해주세요
 - 승인 여부는 [스프레드시트](https://docs.google.com/spreadsheets/d/16zgirxVkXjOB8wtm7rxRPi9vK6jAzNhP/edit?gid=569054033#gid=569054033)에서 확인하실 수 있습니다.
 - [신청 링크](https://forms.gle/mxHqvUWbWVAomaUb9)
+- 참가를 취소하거나 팀 구성원 변경을 원하신다면 [asdfsdf@kaist.ac.kr](mailto:asdfsdf@kaist.ac.kr)로 연락해 주세요.
 <iframe src="https://forms.gle/mxHqvUWbWVAomaUb9" frameborder="0" width="100%" height="1500px"></iframe>
