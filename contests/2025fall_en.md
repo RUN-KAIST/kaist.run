@@ -16,7 +16,7 @@ TODO: Upload Poster
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
 * Date: October 26, 2025 (Sunday)
-* Location: KAIST N1 IT Convergence Building, Room 117 (Tentative)
+* Location: KAIST N1(Kim Beang-Ho Kim Sam-Youl ITC Building), Room 117 (Tentative)
 * Format: Team Competition
 * Registration (**by October 23, 23:59**)
   - [Registration Link](https://forms.gle/hzEv9X2qnpvbQHiM9)
