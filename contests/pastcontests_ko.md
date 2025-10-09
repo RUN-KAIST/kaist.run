@@ -3,6 +3,7 @@ layout: page
 title: 대회
 permalink: /ko/contests/past
 lang: ko
+nav_exclude: true
 ---
 
 ## 과거 기출 문제
