@@ -3,7 +3,7 @@ layout: page
 title: 대회
 permalink: /ko/contests/2025spring
 lang: ko
-nav_exclude: true
+ref: contest-2025spring
 ---
 
 ## 2025 KAIST RUN Spring Contest가 열립니다!
