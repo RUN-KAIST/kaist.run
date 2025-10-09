@@ -69,3 +69,5 @@ ref: contest-2025spring
 
 * 010-7605-8717
 * asdfsdf@kaist.ac.kr (박영우)
+
+[과거 대회](https://kaist.run/ko/contests/past)
