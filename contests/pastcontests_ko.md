@@ -2,9 +2,7 @@
 layout: page
 title: 대회
 permalink: /ko/contests/past
-ref: contests
 lang: ko
-order: 3
 ---
 
 ## 과거 기출 문제
