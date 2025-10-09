@@ -17,7 +17,7 @@ ref: contest-2025fall
 * Location: KAIST N1(Kim Beang-Ho Kim Sam-Youl ITC Building), Room 117 (Tentative)
 * Format: Team Competition
 * Registration (**by October 23, 23:59**)
-  - [Registration Link](https://forms.gle/hzEv9X2qnpvbQHiM9)
+  - [Registration Link](https://forms.gle/hzEv9X2qnpvbQHiM9)
 ```
 Contest Day Schedule
 11:30~12:30 | Participant Check-in and Registration
