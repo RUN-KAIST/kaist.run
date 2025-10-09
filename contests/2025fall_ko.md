@@ -8,10 +8,8 @@ ref: contest-2025fall
 
 ## 2025 KAIST 15th ICPC Mock Competition이 열립니다!
 
-
-TODO: 포스터 올리기
 <div style="text-align: center">
-	<img src="/contest/2025-spring/2025 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
+	<img src="/contest/2025-fall/2025fall poster.png" alt="poster" style="width: 700px;"/>
 </div>
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
