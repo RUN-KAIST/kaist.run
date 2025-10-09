@@ -6,4 +6,4 @@ ref: contests
 lang: ko
 order: 3
 ---
-{% include 2025fall_ko.md %}
+{% include_relative 2025fall_ko.md %}
