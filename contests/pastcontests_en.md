@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contest
+title: Contests
 permalink: /en/contests/past
 lang: en
 ref: contest-past
