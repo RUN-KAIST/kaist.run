@@ -8,6 +8,10 @@ ref: contest-past
 
 ## Past Contests
 
+### 2025 Spring
+
+[Link](https://kaist.run/en/contests/2025spring)
+
 ### 2024 Fall
 
 * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4305) ([pdf](https://kaist.run/contest/2024-fall/problemset.pdf), [Codeforces](https://codeforces.com/gym/105401))
