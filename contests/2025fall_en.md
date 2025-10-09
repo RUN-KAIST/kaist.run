@@ -59,8 +59,8 @@ Special Prizes
 * All teams must complete registration by 12:30 on the day of the contest. Failure to do so may result in disqualification.
 * All participants must bring a valid photo ID (Resident Registration Card, passport, or driver's license) for registration.
 * Teams are classified as "Internal" or "External" based on the following criteria:
-  - Internal Team: All team members are affiliated with KAIST (including students on leave and graduate students) as of the contest date (October 26, 2025).
-  - External Team: At least one team member is not affiliated with KAIST as of the contest date.
+  - Internal Team: All team members are affiliated with KAIST (including students on leave and graduate students) as of the contest date (October 26, 2025).
+  - External Team: At least one team member is not affiliated with KAIST as of the contest date.
 * For Internal Teams, all members must present their KAIST student ID (or another document proving their affiliation with KAIST). Otherwise, the team will be considered an External Team.
 
 #### Team Reference Document Rules
