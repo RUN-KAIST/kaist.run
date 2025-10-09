@@ -69,7 +69,7 @@ Special Prizes
 * Viewing the team reference document on your computer or any electronic device is prohibited.
 
 #### Anti-Cheating Policy
-* During the contest, you are not allowed to view or use any code written before the start of the contest, other than your team reference document. This includes any type of code that could indirectly help in solving the problems.
+* During the contest, you are not allowed to view or use any code written before the start of the contest, other than language reference or your team reference document. This includes any type of code that could indirectly help in solving the problems.
 * All internet usage is prohibited during the contest, except for accessing the contest platform. In particular, the use of generative AI (LLM) for any purpose will be considered cheating.
 * IDE autocompletion features are allowed, provided they are not based on generative AI.
 * Applications not covered by the above rules (e.g., calculators, notepads) may be used freely.
