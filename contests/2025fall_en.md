@@ -28,16 +28,18 @@ Contest Day Schedule
 19:00~      | After-party (Fully sponsored for regular RUN members of the 2025 Fall semester)
 ```
 
-#### Awards
+#### Prizes
 
-Ranking Prizes
-* TBD
+Overall Prize
+* 1st Place (Jane Street Prize): Samsung Galaxy Watch 7
+* 2nd Place: OneOdio® A70 Bluetooth & Wired Headphones
+* 3rd Place: AULA F87 Pro
 
-First Solve Prizes
-* Awarded to the first participant to solve each problem.
-* For problems not solved during the contest, this prize will be awarded to the first person to solve it after it is uploaded to the Baekjoon Online Judge (BOJ).
+KAIST Team Prize
+* 1st Place (Hudson River Trading Prize): OneOdio® A70 Bluetooth & Wired Headphones
+* 2nd Place: AULA F87 Pro
 
-Special Prizes
+Special Prize
 * To be announced at the awards ceremony.
 
 #### Rules
