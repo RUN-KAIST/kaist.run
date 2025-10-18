@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Contests
-permalink: /en/contests/2025fall
+permalink: /en/contests/
+ref: contests
 lang: en
-ref: contest-2025fall
+order: 3
 ---
 
 ## The 2025 KAIST 15th ICPC Mock Competition is here!
