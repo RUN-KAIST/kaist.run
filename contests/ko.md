@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 대회
-permalink: /ko/contests/2025fall
+permalink: /en/contests/
+ref: contests
 lang: ko
-ref: contest-2025fall
+order: 3
 ---
 
 ## 2025 KAIST 15th ICPC Mock Competition이 열립니다!
