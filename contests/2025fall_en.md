@@ -15,8 +15,8 @@ ref: contest-2025fall
 
 * Date: October 26, 2025 (Sunday)
 * Location: KAIST N1(Kim Beang-Ho Kim Sam-Youl ITC Building), Room 117 (Tentative)
-* Format: Team Competition
-* Registration (**by October 23, 23:59**)
+* Format: A team-based competition with 1 to 3 members per team.
+* Registration (**by Thursday, October 23, 23:59**)
   - [Registration Link](https://forms.gle/hzEv9X2qnpvbQHiM9)
 ```
 Contest Day Schedule
