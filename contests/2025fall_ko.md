@@ -14,7 +14,7 @@ ref: contest-2025fall
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
 * 일시: 2025년 10월 26일 (일요일)
-* 장소: KAIST N1 IT 융합 빌딩 117호 (예정)
+* 장소: KAIST N1 IT 융합 빌딩 117호
 * 방식: 팀 대회
 * 등록 (**10월 23일 23:59까지**)
   - [신청 링크](https://forms.gle/hzEv9X2qnpvbQHiM9)
@@ -31,15 +31,17 @@ ref: contest-2025fall
 
 #### 시상
 
-순위상
-* TBD
+전체 팀 순위상
+* 1등상 (Jane Street Prize): 갤럭시 워치 7
+* 2등상: OneOdio A70 블루투스 오버 이어 헤드폰
+* 3등상: AULA F87 Pro
 
-First Solve 상
-* 각 문제별 가장 빨리 해결하신 참가자에게 드립니다.
-* 대회 시간 중 풀리지 않은 문제의 경우, 백준 온라인 저지(BOJ)에 업로드된 이후 가장 빨리 해결하신 분에게 드립니다.
+KAIST 팀 순위상
+* 1등상 (Hudson River Trading Prize): OneOdio A70 블루투스 오버 이어 헤드폰
+* 2등상: AULA F87 Pro
 
 특별상
-* 시상식 때 공개됩니다.
+* 시상 조건과 상품은 시상식 때 공개됩니다.
 
 #### 규칙
 * 각 팀은 컴퓨터, 전원 장치, 필기도구를 지참하셔야 합니다.
