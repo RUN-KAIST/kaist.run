@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Contests
-permalink: /en/contests/
-ref: contests
+permalink: /en/contests/2025fall
 lang: en
-order: 3
+ref: contest-2025fall
 ---
 
 ## The 2025 KAIST 15th ICPC Mock Competition is here!
@@ -15,9 +14,9 @@ order: 3
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
 * Date: October 26, 2025 (Sunday)
-* Location: KAIST N1(Kim Beang-Ho Kim Sam-Youl ITC Building), Room 117 (Tentative)
-* Format: Team Competition
-* Registration (**by October 23, 23:59**)
+* Location: KAIST N1(Kim Beang-Ho Kim Sam-Youl ITC Building), Room 117
+* Format: A team-based competition with 1 to 3 members per team.
+* Registration (**by Thursday, October 23, 23:59**)
   - [Registration Link](https://forms.gle/hzEv9X2qnpvbQHiM9)
 ```
 Contest Day Schedule
@@ -29,16 +28,18 @@ Contest Day Schedule
 19:00~      | After-party (Fully sponsored for regular RUN members of the 2025 Fall semester)
 ```
 
-#### Awards
+#### Prizes
 
-Ranking Prizes
-* TBD
+Overall Prize
+* 1st Place (Jane Street Prize): Samsung Galaxy Watch 7
+* 2nd Place: OneOdio® A70 Bluetooth & Wired Headphones
+* 3rd Place: AULA F87 Pro
 
-First Solve Prizes
-* Awarded to the first participant to solve each problem.
-* For problems not solved during the contest, this prize will be awarded to the first person to solve it after it is uploaded to the Baekjoon Online Judge (BOJ).
+KAIST Team Prize
+* 1st Place (Hudson River Trading Prize): OneOdio® A70 Bluetooth & Wired Headphones
+* 2nd Place: AULA F87 Pro
 
-Special Prizes
+Special Prize
 * To be announced at the awards ceremony.
 
 #### Rules
@@ -63,13 +64,13 @@ Special Prizes
 * For Internal Teams, all members must present their KAIST student ID (or another document proving their affiliation with KAIST). Otherwise, the team will be considered an External Team.
 
 #### Team Reference Document Rules
-* Each team may bring a team reference document of up to 25 single-sided pages with a font size of 5pt or larger.
+* Each team may bring a team reference document of up to 25 single-sided A4 pages with a font size of 5pt or larger.
 * Up to 3 identical copies of the team reference document are permitted per team.
 * Team reference documents will be inspected during registration before the contest begins.
 * Viewing the team reference document on your computer or any electronic device is prohibited.
 
 #### Anti-Cheating Policy
-* During the contest, you are not allowed to view or use any code written before the start of the contest, other than language reference or your team reference document. This includes any type of code that could indirectly help in solving the problems.
+* During the contest, you are not allowed to view or use any code written before the start of the contest, other than your team reference document. This includes any type of code that could indirectly help in solving the problems.
 * All internet usage is prohibited during the contest, except for accessing the contest platform. In particular, the use of generative AI (LLM) for any purpose will be considered cheating.
 * IDE autocompletion features are allowed, provided they are not based on generative AI.
 * Applications not covered by the above rules (e.g., calculators, notepads) may be used freely.
@@ -86,4 +87,3 @@ Special Prizes
 * asdfsdf@kaist.ac.kr (Youngwoo Park)
 
 [Past Contests](https://kaist.run/en/contests/past)
-
