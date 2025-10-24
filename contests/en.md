@@ -26,7 +26,7 @@ Contest Day Schedule
 13:00~18:00 | Contest
 18:00~18:20 | Break
 18:20~19:20 | Sponsor Session and Awards Ceremony
-19:00~      | After-party (Fully sponsored for regular RUN members of the 2025 Fall semester)
+19:20~      | After-party (Fully sponsored for regular RUN members of the 2025 Fall semester)
 ```
 
 #### Prizes
