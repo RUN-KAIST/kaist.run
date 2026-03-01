@@ -1,6 +1,6 @@
 ---
 layout: page
-title: apply
+title: Apply
 permalink: /en/apply/
 ref: apply
 lang: en
