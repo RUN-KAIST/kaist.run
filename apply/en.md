@@ -1,12 +1,3 @@
----
-layout: page
-title: Apply
-permalink: /en/apply/
-ref: apply
-lang: en
-order: 2
----
-
 ## Recruiting for the fall semester of 2025 is underway!!!
 
 <div style="text-align: center">
