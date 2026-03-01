@@ -1,12 +1,3 @@
----
-layout: page
-title: 지원
-permalink: /ko/apply/
-ref: apply
-lang: ko
-order: 2
----
-
 ## 2025년 가을학기 리크루팅이 진행중입니다!!!
 
 <div style="text-align: center">
