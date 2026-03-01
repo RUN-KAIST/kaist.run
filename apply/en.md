@@ -1,3 +1,12 @@
+---
+layout: page
+title: apply
+permalink: /en/apply/
+ref: apply
+lang: en
+order: 2
+---
+
 ## Recruiting New Members for RUN - Spring 2026
 Hello! We are RUN, a community of KAIST students who enjoy algorithmic problem solving. We are recruiting new members to join us for the Spring 2026 semester!
 
