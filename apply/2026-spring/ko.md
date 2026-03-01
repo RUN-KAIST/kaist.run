@@ -1,12 +1,3 @@
----
-layout: page
-title: 지원
-permalink: /ko/apply/
-ref: apply
-lang: ko
-order: 2
----
-
 ## 2026 봄학기 RUN 동아리 신입 부원 모집
 
 안녕하세요, 알고리즘 문제 해결을 즐기는 KAIST 학생들의 모임 RUN입니다! 2026학년도 봄학기를 함께할 신입 부원을 모집합니다.
