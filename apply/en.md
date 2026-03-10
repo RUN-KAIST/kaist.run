@@ -18,9 +18,9 @@ Regular Study Sessions: These are held weekly (excluding exam periods). You can 
 ### 🗓️ Recruitment Details
 Application Deadline: March 11 (Wed) by 7:00 PM
 
-Application Link: https://forms.gle/V7NrYFjwvgpkrjUo6
+Application Link: [https://forms.gle/V7NrYFjwvgpkrjUo6](https://forms.gle/V7NrYFjwvgpkrjUo6)
 
-About the Club: https://kaist.run/ko/
+About the Club: [https://kaist.run/ko/](https://kaist.run/ko/)
 
 <div style="text-align: center">
   <img src="/apply/2026-spring/RUN 2026 spring poster.png" alt="poster" style="width: 700px;"/>
