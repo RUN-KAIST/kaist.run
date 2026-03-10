@@ -18,7 +18,7 @@ Regular Study Sessions: These are held weekly (excluding exam periods). You can 
 ### 🗓️ Recruitment Details
 Application Deadline: March 11 (Wed) by 7:00 PM
 
-Application Link: https://qrto.org/al4rHr
+Application Link: https://forms.gle/V7NrYFjwvgpkrjUo6
 
 About the Club: https://kaist.run/ko/
 
