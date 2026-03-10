@@ -21,7 +21,7 @@ order: 2
 
 신청 마감: 3월 11일(수) 오후 7시까지
 
-지원서 링크: https://qrto.org/al4rHr
+지원서 링크: https://forms.gle/V7NrYFjwvgpkrjUo6
 
 동아리 소개: https://kaist.run/ko/
 
