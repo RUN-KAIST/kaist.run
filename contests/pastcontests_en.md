@@ -8,6 +8,10 @@ ref: contest-past
 
 ## Past Contests
 
+### 2025 Fall
+
+[Link](https://kaist.run/en/contests/2025fall)
+
 ### 2025 Spring
 
 [Link](https://kaist.run/en/contests/2025spring)
