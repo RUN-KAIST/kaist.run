@@ -8,6 +8,10 @@ ref: contest-past
 
 ## 과거 기출 문제
 
+### 2025 Fall
+
+[Link](https://kaist.run/ko/contests/2025fall)
+
 ### 2025 Spring
 
 [Link](https://kaist.run/ko/contests/2025spring)
