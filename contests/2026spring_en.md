@@ -1,26 +1,25 @@
 ---
 layout: page
 title: Contests
-permalink: /en/contests/2025spring
+permalink: /en/contests/2026spring
 lang: en
-ref: contest-2025spring
+ref: contest-2026spring
 ---
 
-## The 2025 KAIST RUN Spring Contest is here!
+## The 2026 KAIST RUN Spring Contest is here!
 
-(UPD: KAIST Participants outside KAIST are also welcome! Make sure to use the seperate registration link)
 
 <div style="text-align: center">
-	<img src="/contest/2025-spring/2025 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
+    <img src="/contest/2026-spring/2026 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
 </div>
 <hr style="size: 20; margin-top: 40px; margin-bottom: 40px; border: solid; border-width: 0; border-bottom: 1px solid #e8e8e8;"/>
 
-* Date: May 5th, 2025 (Children's Day)
+* Date: May 3th, 2026 (Sunday)
 * Venue: KAIST N1 Kim-Beang-Ho & Kim Sam-Youl ITC buliding, Room 117
 * Format: Individual contest
-* Registration deadline (**May 2nd, 23:00**)
-  - [Registration for KAIST students](https://forms.gle/3czmTe38cqsn7Vay6)
-  - [Registration for non-KAIST participants](https://forms.gle/v8Nj9mkQ7cLnPTCDA)
+* Registration deadline (**May 1st, 23:59**)
+  - [Registration for RUN members](https://forms.gle/B4go53pykEp5VJfe8)
+  - [Registration for external participants](https://forms.gle/1QXTfQE4espk3EfeA)
 
 ```
 Contest schedule(KST)
@@ -35,9 +34,7 @@ Contest schedule(KST)
 #### Awards
 
 Ranking Awards
-* 1st Place: Galaxy Watch 7
-* 2nd Place: Galaxy Buds 3 Pro
-* 3rd Place: Logitech G Pro X Superlight
+* To be revealed during the award ceremony.
 
 Awards given to the first solvers of each problem
 * Awarded to the highest scorer for each problem.
@@ -55,19 +52,16 @@ Special Prizes
 - No internet access is allowed during the contest, except for the contest platform. Use of generative AI tools for any purpose is strictly prohibited and considered cheating.
 - Each participant may bring up to 25 printed pages, single-sided, in font size 5pt or larger. These team notes will be inspected during registration.
 - Prewritten code is not allowed—you may only use code written during the contest.
-- The contest will be hosted on Baekjoon Online Judge (BOJ). Please familiarize yourself with its environment.
-- Only languages supported by BOJ may be used.
+- Details on competition platform and available languages to be updated.
 - **At least one problem will be interactive or two-step.**
 
 #### Judging Environment
 
-- The contest will be held using [Baekjoon Online Judge](https://www.acmicpc.net/)'s contest system. Please familiarize yourself with the platform.
-- [Help: Judging rules](https://www.acmicpc.net/help/judge)
-- [Help: Programming Languages](https://www.acmicpc.net/help/language)
+- TBA
 
 #### Contact
 
-* 010-7605-8717
-* asdfsdf@kaist.ac.kr (박영우(the club's president))
+* 010-4216-7811
+* ibm2006@kaist.ac.kr (김기범(Kibeom Kim))
 
 [Past Contests](https://kaist.run/en/contests/past)
