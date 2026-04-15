@@ -47,7 +47,7 @@ Special Prizes
 
 - Participants must bring their own laptop, charger and stationery.
 - Only one computer per person is allowed.
-- The contest lasts for 5 hours and consists of 9 problems, arranged in increasing difficulty.
+- The contest lasts for 5 hours and features 9 problems, ordered by increasing difficulty as evaluated by the organizers.
 - Participants may leave early, but may recieve disadvantages in winning certain prizes.
 - No internet access is allowed during the contest, except for the contest platform. Use of generative AI tools for any purpose is strictly prohibited and considered cheating.
 - Each participant may bring up to 25 printed pages, single-sided, in font size 5pt or larger. These team notes will be inspected during registration.
