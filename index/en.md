@@ -8,8 +8,8 @@ redirect_from: /index.html
 
 # KAIST Algorithmic Problem Solving Club RUN.
 
-{% include apply_en.md %}
-<!-- {% include contests_en.md %} -->
+<!-- {% include apply_en.md %} -->
+{% include contests_en.md %}
 
 <!--
 위 두 include문 중 시기에 따라 적절한 것을 주석 해제하여 사용하세요.
