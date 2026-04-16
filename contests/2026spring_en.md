@@ -28,7 +28,7 @@ Contest schedule(KST)
 13:00~18:00 | Contest
 18:00~18:20 | Break
 18:20~19:00 | Scoreboard reveal & awards
-19:00~      | After party (Fully supported for 2025 Spring RUN members)
+19:00~      | After party (Fully supported for 2026 Spring RUN members)
 ```
 
 #### Awards
