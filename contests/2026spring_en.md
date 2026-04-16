@@ -7,7 +7,7 @@ ref: contest-2026spring
 ---
 
 ## The 2026 KAIST RUN Spring Contest is here!
-(UPD: The contest will be hosted on [biko.kr](https://www.biko.kr/). We recommend familiarizing yourself with the platform in advance.)
+(UPD: The contest will be hosted on [BIKO](https://www.biko.kr/). We recommend familiarizing yourself with the platform in advance.)
 
 <div style="text-align: center">
     <img src="/contest/2026-spring/2026 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
