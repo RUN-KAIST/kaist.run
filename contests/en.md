@@ -8,7 +8,7 @@ order: 3
 ---
 
 ## The 2026 KAIST RUN Spring Contest is here!
-
+(UPD: The contest will be hosted on [BIKO](https://www.biko.kr/). We recommend familiarizing yourself with the platform in advance.)
 
 <div style="text-align: center">
     <img src="/contest/2026-spring/2026 KAIST RUN Spring Contest.png" alt="poster" style="width: 700px;"/>
@@ -29,7 +29,7 @@ Contest schedule(KST)
 13:00~18:00 | Contest
 18:00~18:20 | Break
 18:20~19:00 | Scoreboard reveal & awards
-19:00~      | After party (Fully supported for 2025 Spring RUN members)
+19:00~      | After party (Fully supported for 2026 Spring RUN members)
 ```
 
 #### Awards
@@ -53,7 +53,9 @@ Special Prizes
 - No internet access is allowed during the contest, except for the contest platform. Use of generative AI tools for any purpose is strictly prohibited and considered cheating.
 - Each participant may bring up to 25 printed pages, single-sided, in font size 5pt or larger. These team notes will be inspected during registration.
 - Prewritten code is not allowed—you may only use code written during the contest.
-- Details on competition platform and available languages to be updated.
+- The contest will be hosted on BIKO.
+- Only languages supported by BIKO may be used. Please familiarize yourself with its environment.
+- More details on judging environment to be updated.
 - **At least one problem will be interactive or two-step.**
 
 #### Judging Environment
