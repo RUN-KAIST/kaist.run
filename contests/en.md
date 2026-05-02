@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Contests
-permalink: /en/contests/
-ref: contests
+permalink: /en/contests/2026spring
 lang: en
-order: 3
+ref: contest-2026spring
 ---
 
 ## The 2026 KAIST RUN Spring Contest is here!
@@ -50,17 +49,17 @@ Special Prizes
 - Only one computer per person is allowed.
 - The contest lasts for 5 hours and features 9 problems, ordered by increasing difficulty as evaluated by the organizers.
 - Participants may leave early, but may recieve disadvantages in winning certain prizes.
-- No internet access is allowed during the contest, except for the contest platform. Use of generative AI tools for any purpose is strictly prohibited and considered cheating.
+- During the contest, all internet use is prohibited except for the contest website and official programming language references. In particular, use of generative AI tools for any purpose is strictly prohibited and considered cheating.
 - Each participant may bring up to 25 printed pages, single-sided, in font size 5pt or larger. These team notes will be inspected during registration.
 - Prewritten code is not allowed—you may only use code written during the contest.
 - The contest will be hosted on BIKO.
 - Only languages supported by BIKO may be used. Please familiarize yourself with its environment.
-- More details on judging environment to be updated.
 - **At least one problem will be interactive or two-step.**
 
 #### Judging Environment
 
-- TBA
+- Grading will be conducted through the contest feature of BIKO. Please familiarize yourself with how to use the site.
+- Available languages are C11, C++17, C++20, Java, and PyPy 3.
 
 #### Contact
 
