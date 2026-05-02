@@ -54,12 +54,12 @@ Special Prizes
 - Prewritten code is not allowed—you may only use code written during the contest.
 - The contest will be hosted on BIKO.
 - Only languages supported by BIKO may be used. Please familiarize yourself with its environment.
-- More details on judging environment to be updated.
 - **At least one problem will be interactive or two-step.**
 
 #### Judging Environment
 
-- TBA
+- Grading will be conducted through the contest feature of BIKO. Please familiarize yourself with how to use the site.
+- Available languages are C11, C++17, C++20, Java, and PyPy 3.
 
 #### Contact
 
