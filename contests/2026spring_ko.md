@@ -1,10 +1,9 @@
 ---
 layout: page
 title: 대회
-permalink: /ko/contests/
-ref: contests
+permalink: /ko/contests/2026spring
 lang: ko
-order: 3
+ref: contest-2026spring
 ---
 
 ## 2026 KAIST RUN Spring Contest가 열립니다!
