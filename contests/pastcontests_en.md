@@ -10,86 +10,96 @@ ref: contest-past
 
 ### 2025 Fall
 
-[Link](https://kaist.run/en/contests/2025fall)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4592), [QOJ](https://qoj.ac/contest/3595))
 
 ### 2025 Spring
 
-[Link](https://kaist.run/en/contests/2025spring)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4486), [QOJ](https://qoj.ac/contest/3800))
 
 ### 2024 Fall
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4305) ([pdf](https://kaist.run/contest/2024-fall/problemset.pdf), [Codeforces](https://codeforces.com/gym/105401))
+* [Statements pdf file](https://kaist.run/contest/2024-fall/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4305), [Codeforces](https://codeforces.com/gym/105401), [QOJ](https://qoj.ac/contest/3633))
 * [Solutions](https://kaist.run/contest/2024-fall/editorial.pdf)
 
 ### 2024 Spring
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4207) ([Korean pdf](https://kaist.run/contest/2024-spring/problemset_ko.pdf), [English pdf](https://kaist.run/contest/2024-spring/problemset_en.pdf))
+* Statements pdf file ([ko](https://kaist.run/contest/2024-spring/problemset_ko.pdf), [en](https://kaist.run/contest/2024-spring/problemset_en.pdf))
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4207), [QOJ](https://qoj.ac/contest/3769))
 * [Solutions](https://kaist.run/contest/2024-spring/editorial.pdf)
 
 ### 2023 Fall
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3999) 
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/3999), [QOJ](https://qoj.ac/contest/1806))
 * [Solutions](https://u.acmicpc.net/c55549f6-ca01-4ecc-9d98-c3e82181d645/2023_KAIST_13th_ICPC_Mock_Competition_editorial.pdf)
 
 ### 2023 Spring
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3580) 
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/3580), [QOJ](https://qoj.ac/contest/3764))
 * [Solutions](https://kaist.run/contest/2023-spring/editorial.pdf)
 
 ### 2022 Fall
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3199) ([pdf](https://kaist.run/contest/2022-fall/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2022-fall/solution.pdf)
+* [Statements pdf file](https://kaist.run/contest/2022-fall/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/3199), [QOJ](https://qoj.ac/contest/3787))
+* [Solutions](https://kaist.run/contest/2022-fall/solution.pdf)
 
 ### 2022 Spring
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/3117) ([pdf](https://kaist.run/contest/2022-spring/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2022-spring/solution.pdf)
- * [Polygon package (full)](https://drive.google.com/drive/folders/1rqOHVoANZxCQ_E5CRo3rGENYFY_N0pft?usp=sharing)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/3199))
+* [Solutions](https://kaist.run/contest/2022-spring/solution.pdf)
+* [Polygon package (full)](https://drive.google.com/drive/folders/1rqOHVoANZxCQ_E5CRo3rGENYFY_N0pft?usp=sharing)
 
 ### 2021 Fall
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2804) ([pdf](https://kaist.run/contest/2021-fall/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2021-fall/solution.pdf)
- * [Polygon package (full)](https://drive.google.com/drive/folders/1-BG9lmWvPeN4nayQ13YDHOpUvPWPdA7A?usp=sharing)
+* [Statements pdf file](https://kaist.run/contest/2021-fall/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2804), [QOJ](https://qoj.ac/contest/3788))
+* [Solutions](https://kaist.run/contest/2021-fall/solution.pdf)
+* [Polygon package (full)](https://drive.google.com/drive/folders/1-BG9lmWvPeN4nayQ13YDHOpUvPWPdA7A?usp=sharing)
 
 ### 2021 Spring
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2543) ([pdf](https://kaist.run/contest/2021-spring/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2021-spring/solution.pdf)
- * [Polygon package (full)](https://drive.google.com/drive/folders/1jmcOMC95VIRIIDsQVkoRJslNaGpVb1sZ?usp=sharing)
+* [Statements pdf file](https://kaist.run/contest/2021-spring/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2543), [QOJ](https://qoj.ac/contest/3772))
+* [Solutions](https://kaist.run/contest/2021-spring/solution.pdf)
+* [Polygon package (full)](https://drive.google.com/drive/folders/1jmcOMC95VIRIIDsQVkoRJslNaGpVb1sZ?usp=sharing)
 
 ### 2020 Fall
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2329) ([pdf](https://kaist.run/contest/2020-fall/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2020-fall/solution.pdf)
- * [Polygon package (full)](https://drive.google.com/drive/folders/1VpNt3qBqOn_Xurdug0R3yPBoVkXc5cKn?usp=sharing)
+* [Statements pdf file](https://kaist.run/contest/2020-fall/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2329), [QOJ](https://qoj.ac/contest/3755))
+* [Solutions](https://kaist.run/contest/2020-fall/solution.pdf)
+* [Polygon package (full)](https://drive.google.com/drive/folders/1VpNt3qBqOn_Xurdug0R3yPBoVkXc5cKn?usp=sharing)
 
 ### 2019 Fall
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2063) ([pdf](https://kaist.run/contest/2019-fall/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
- * [Polygon package (full)](https://drive.google.com/drive/folders/1sQVuxaLZGQUGHk_Ux0USjeGKnieJq62X?usp=sharing)
+* [Statements pdf file](https://kaist.run/contest/2019-fall/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2063))
+* [Solutions](https://kaist.run/contest/2019-fall/solution.pdf)
+* [Polygon package (full)](https://drive.google.com/drive/folders/1sQVuxaLZGQUGHk_Ux0USjeGKnieJq62X?usp=sharing)
 
 ### 2019 Spring
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/2022) ([pdf](https://kaist.run/contest/2019-spring/problemset.pdf))
- * [Solutions](https://kaist.run/contest/2019-spring/solution.pdf)
- * [Polygon package (full)](https://drive.google.com/drive/folders/1G-_Jm6g0Yf3miRRQ0NVaZ8hFJnZOw-m3?usp=sharing)
+* [Statements pdf file](https://kaist.run/contest/2019-spring/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2022), [Codeforces](https://codeforces.com/gym/102202), [QOJ](https://qoj.ac/contest/3921))
+* [Solutions](https://kaist.run/contest/2019-spring/solution.pdf)
+* [Polygon package (full)](https://drive.google.com/drive/folders/1G-_Jm6g0Yf3miRRQ0NVaZ8hFJnZOw-m3?usp=sharing)
  
 ### 2018 Fall 
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1923) ([pdf](https://drive.google.com/open?id=1ZLAA9o0rpS418MAIT75Roc2mt02wITl-))
- * [Solutions](https://drive.google.com/open?id=1z2TF6Mpeg_yMLoa2meeU_91TrhGDQCk5)
- * [Tests, Solution, Checker (warning, 600MB!)](https://drive.google.com/open?id=1OCX6NrQRlorwPbvoa4KlcHQk1t672adr)
- * [Discussion on Codeforces](http://codeforces.com/blog/entry/62435)
+* [Statements pdf file](https://drive.google.com/open?id=1ZLAA9o0rpS418MAIT75Roc2mt02wITl-)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1923), [QOJ](https://qoj.ac/contest/3631))
+* [Solutions](https://drive.google.com/open?id=1z2TF6Mpeg_yMLoa2meeU_91TrhGDQCk5)
+* [Tests, Solution, Checker (warning, 600MB!)](https://drive.google.com/open?id=1OCX6NrQRlorwPbvoa4KlcHQk1t672adr)
+* [Discussion on Codeforces](http://codeforces.com/blog/entry/62435)
 
 ### 2018 Spring
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1874) ([Korean pdf](https://drive.google.com/open?id=1eiU413JYuldPwTcQ3VFaIp8qyuI8HzEW), [English pdf](https://drive.google.com/open?id=1ppIkxJH9roWxpuWDhdRwn4fKWjk3eggW))
- * [Solutions](https://drive.google.com/open?id=17Sgx0VODLTdrfQhIQrAf5kHWiiwG--Q2)
- * [Tests, Solution, Checker (warning, 400MB!)](https://drive.google.com/open?id=1mWZ-R1WE5IV4hKZNPWC2fYlqsMGLEhIM)
- * [Discussion on Codeforces](http://codeforces.com/blog/entry/59625)
+* Statements pdf file ([ko](https://drive.google.com/open?id=1eiU413JYuldPwTcQ3VFaIp8qyuI8HzEW), [en](https://drive.google.com/open?id=1ppIkxJH9roWxpuWDhdRwn4fKWjk3eggW))
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1874), [Codeforces](https://codeforces.com/gym/101806), [QOJ](https://qoj.ac/contest/3628))
+* [Solutions](https://drive.google.com/open?id=17Sgx0VODLTdrfQhIQrAf5kHWiiwG--Q2)
+* [Tests, Solution, Checker (warning, 400MB!)](https://drive.google.com/open?id=1mWZ-R1WE5IV4hKZNPWC2fYlqsMGLEhIM)
+* [Discussion on Codeforces](http://codeforces.com/blog/entry/59625)
 
 ### 2017 Fall
 
@@ -100,8 +110,9 @@ ref: contest-past
 
 ### 2017 Spring 
 
- * [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/1743) ([Korean pdf](https://drive.google.com/open?id=16OvDVDwI77v3Uso8rx5M3HNXHY5x4N80), [English pdf](https://drive.google.com/open?id=11_dYYH3dok1H3C0d3nABUPmYDWd2hW72))
- * Solutions: [English version](https://drive.google.com/open?id=1N7GuLhgmu9-Y-pCu8xZnfkaaQ2rz4xSA), [Korean version](https://drive.google.com/open?id=1LQHJGEMbelK-IBbI30rlpkPqTxz4oAo_)
+* Statements pdf file ([ko](https://drive.google.com/open?id=16OvDVDwI77v3Uso8rx5M3HNXHY5x4N80), [en](https://drive.google.com/open?id=11_dYYH3dok1H3C0d3nABUPmYDWd2hW72))
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1743))
+* Solutions: [English version](https://drive.google.com/open?id=1N7GuLhgmu9-Y-pCu8xZnfkaaQ2rz4xSA), [Korean version](https://drive.google.com/open?id=1LQHJGEMbelK-IBbI30rlpkPqTxz4oAo_)
 
 ### 2016 Fall
 
