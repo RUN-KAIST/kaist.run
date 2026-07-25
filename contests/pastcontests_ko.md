@@ -19,7 +19,7 @@ ref: contest-past
 ### 2024 Fall
 
 * [Statements pdf file](https://kaist.run/contest/2024-fall/problemset.pdf)
-* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4305), [Codeforces](https://codeforces.com/gym/105401), [QOJ])([link](https://qoj.ac/contest/3633)))
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4305), [Codeforces](https://codeforces.com/gym/105401), [QOJ](https://qoj.ac/contest/3633))
 * [Solutions](https://kaist.run/contest/2024-fall/editorial.pdf)
 
 ### 2024 Spring
