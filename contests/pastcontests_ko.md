@@ -8,6 +8,11 @@ ref: contest-past
 
 ## 과거 기출 문제
 
+
+### 2026 Spring
+
+* Problems in online judges ([oj.uz](https://oj.uz/problems/source/kaist2026runspring))
+
 ### 2025 Fall
 
 * Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4592), [QOJ](https://qoj.ac/contest/3595))
