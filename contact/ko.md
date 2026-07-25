@@ -7,7 +7,7 @@ lang: ko
 order: 100
 ---
 
-- 동아리 메일: contact@kaist.run
+- 동아리 메일: [contact@kaist.run](mailto:contact@kaist.run)
 - 2026년 회장 이우빈
   - 전화번호: 010-9509-0057
   - 이메일: [cenix820@kaist.ac.kr](mailto:cenix820@kaist.ac.kr)
