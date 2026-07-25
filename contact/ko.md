@@ -7,9 +7,9 @@ lang: ko
 order: 100
 ---
 
-- 2025년 회장 박영우
-  - 전화번호: 010-7605-8717
-  - 이메일: [asdfsdf@kaist.ac.kr](mailto:asdfsdf@kaist.ac.kr)
+- 동아리 메일: contact@kaist.run
+- 2026년 회장 이우빈
+  - 전화번호: 010-9509-0057
+  - 이메일: [cenix820@kaist.ac.kr](mailto:cenix820@kaist.ac.kr)
 - 이란성 쌍둥이
   - [SNUPS](https://snups.org)
-- contact@kaist.run은 현재 사용되지 않습니다.
