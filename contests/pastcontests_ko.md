@@ -10,15 +10,18 @@ ref: contest-past
 
 ### 2025 Fall
 
-[Link](https://kaist.run/ko/contests/2025fall)
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4592)
+
 
 ### 2025 Spring
 
-[Link](https://kaist.run/ko/contests/2025spring)
+* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4486)
+* [Problems in Qingyu Online Judge](https://qoj.ac/contest/3800)
 
 ### 2024 Fall
 
-* [Problems in Baekjoon Online Judge](https://www.acmicpc.net/category/detail/4305) ([pdf](https://kaist.run/contest/2024-fall/problemset.pdf), [Codeforces](https://codeforces.com/gym/105401))
+* [Statements pdf file](https://kaist.run/contest/2024-fall/problemset.pdf)
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/4305), [Codeforces](https://codeforces.com/gym/105401))
 * [Solutions](https://kaist.run/contest/2024-fall/editorial.pdf)
 
 ### 2024 Spring
