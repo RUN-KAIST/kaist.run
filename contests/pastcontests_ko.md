@@ -81,7 +81,7 @@ ref: contest-past
 ### 2019 Spring
 
 * [Statements pdf file](https://kaist.run/contest/2019-spring/problemset.pdf)
-* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2022), [QOJ](https://qoj.ac/contest/3921))
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/2022), [Codeforces](https://codeforces.com/gym/102202), [QOJ](https://qoj.ac/contest/3921))
 * [Solutions](https://kaist.run/contest/2019-spring/solution.pdf)
 * [Polygon package (full)](https://drive.google.com/drive/folders/1G-_Jm6g0Yf3miRRQ0NVaZ8hFJnZOw-m3?usp=sharing)
  
@@ -95,15 +95,15 @@ ref: contest-past
 
 ### 2018 Spring
 
-* [Statements pdf file]([ko](https://drive.google.com/open?id=1eiU413JYuldPwTcQ3VFaIp8qyuI8HzEW), [en](https://drive.google.com/open?id=1ppIkxJH9roWxpuWDhdRwn4fKWjk3eggW))
-* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1874), [QOJ](https://qoj.ac/contest/3628))
+* Statements pdf file ([ko](https://drive.google.com/open?id=1eiU413JYuldPwTcQ3VFaIp8qyuI8HzEW), [en](https://drive.google.com/open?id=1ppIkxJH9roWxpuWDhdRwn4fKWjk3eggW))
+* Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1874), [Codeforces](https://codeforces.com/gym/101806), [QOJ](https://qoj.ac/contest/3628))
 * [Solutions](https://drive.google.com/open?id=17Sgx0VODLTdrfQhIQrAf5kHWiiwG--Q2)
 * [Tests, Solution, Checker (warning, 400MB!)](https://drive.google.com/open?id=1mWZ-R1WE5IV4hKZNPWC2fYlqsMGLEhIM)
 * [Discussion on Codeforces](http://codeforces.com/blog/entry/59625)
 
 ### 2017 Fall
 
-* [Statements pdf file]([ko](https://drive.google.com/open?id=1QoXaCAMgAlBzfL0-fNYocBpAl393-DDJ), [en](https://drive.google.com/open?id=10aC49yRSxyaBdTCTsCdPgdKJE55Zv-z_))
+* Statements pdf file ([ko](https://drive.google.com/open?id=1QoXaCAMgAlBzfL0-fNYocBpAl393-DDJ), [en](https://drive.google.com/open?id=10aC49yRSxyaBdTCTsCdPgdKJE55Zv-z_))
 * Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1759))
 * [Solutions](https://drive.google.com/open?id=1GuJqgCYzjeVy3A8vPem_zcDxt7gQYx8_) ([Korean version](https://drive.google.com/open?id=1U7IzHUzUShbHYugZtGYD6ZAhwmWR77Ee))
 * 일부 문제가 [GP of Korea #3](http://codeforces.com/blog/entry/62435)에 사용되었습니다.
@@ -111,7 +111,7 @@ ref: contest-past
 
 ### 2017 Spring 
 
-* [Statements pdf file]([ko](https://drive.google.com/open?id=16OvDVDwI77v3Uso8rx5M3HNXHY5x4N80), [en](https://drive.google.com/open?id=11_dYYH3dok1H3C0d3nABUPmYDWd2hW72))
+* Statements pdf file ([ko](https://drive.google.com/open?id=16OvDVDwI77v3Uso8rx5M3HNXHY5x4N80), [en](https://drive.google.com/open?id=11_dYYH3dok1H3C0d3nABUPmYDWd2hW72))
 * Problems in online judges ([BOJ](https://www.acmicpc.net/category/detail/1743))
 * Solutions: [English version](https://drive.google.com/open?id=1N7GuLhgmu9-Y-pCu8xZnfkaaQ2rz4xSA), [Korean version](https://drive.google.com/open?id=1LQHJGEMbelK-IBbI30rlpkPqTxz4oAo_)
 
