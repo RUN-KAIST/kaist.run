@@ -12,4 +12,3 @@ order: 100
   - Email: [cenix820@kaist.ac.kr](mailto:cenix820@kaist.ac.kr)
 - Fraternal Twin
   - [SNUPS](https://snups.org)
-- contact@kaist.run is no longer in use.
