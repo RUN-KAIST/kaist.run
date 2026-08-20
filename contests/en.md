@@ -66,4 +66,4 @@ Special Prizes
 * 010-4216-7811
 * ibm2006@kaist.ac.kr (김기범(Kibeom Kim))
 
-[Past Contests](https://kaist.run/en/contests/past)
+[Past Contests](https://old.kaist.run/en/contests/past)
