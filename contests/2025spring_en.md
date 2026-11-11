@@ -70,4 +70,4 @@ Special Prizes
 * 010-7605-8717
 * asdfsdf@kaist.ac.kr (박영우(the club's president))
 
-[Past Contests](https://kaist.run/en/contests/past)
+[Past Contests](https://old.kaist.run/en/contests/past)

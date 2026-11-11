@@ -66,4 +66,4 @@ ref: contest-2026spring
 * 010-4216-7811
 * ibm2006@kaist.ac.kr (김기범)
 
-[과거 대회](https://kaist.run/ko/contests/past)
+[과거 대회](https://old.kaist.run/ko/contests/past)

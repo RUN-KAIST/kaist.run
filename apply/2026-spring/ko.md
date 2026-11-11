@@ -14,7 +14,7 @@
 
 지원서 링크: https://qrto.org/al4rHr
 
-동아리 소개: https://kaist.run/ko/
+동아리 소개: https://old.kaist.run/ko/
 
 <div style="text-align: center">
   <img src="/apply/2026-spring/RUN 2026 spring poster.png" alt="poster" style="width: 700px;"/>

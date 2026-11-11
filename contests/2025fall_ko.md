@@ -87,4 +87,4 @@ KAIST 팀 순위상
 * 010-7605-8717
 * asdfsdf@kaist.ac.kr (박영우)
 
-[과거 대회](https://kaist.run/ko/contests/past)
+[과거 대회](https://old.kaist.run/ko/contests/past)

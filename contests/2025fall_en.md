@@ -86,4 +86,4 @@ Special Prize
 * 010-7605-8717
 * asdfsdf@kaist.ac.kr (Youngwoo Park)
 
-[Past Contests](https://kaist.run/en/contests/past)
+[Past Contests](https://old.kaist.run/en/contests/past)
